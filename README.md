@@ -48,7 +48,7 @@ All experiments are run on Google Colab free tier (Tesla T4 GPU, 16GB RAM).
 ## Repository Structure
 
 ```
-llm-financial-sentiment/
+iu-bsc-thesis-llm-comparison/
 │
 ├── README.md
 ├── NOTEBOOK_LINKS.md
@@ -100,15 +100,15 @@ llm-financial-sentiment/
 | Notebook | Description |
 |---|---|
 | exp1_dataset_preparation_financialphrasebank.ipynb | Dataset loading and preparation for Experiment 1 |
-| exp1_a_finbert.ipynb | Experiment 1 — FinBERT on Financial PhraseBank |
-| exp1_b_llama3.ipynb | Experiment 1 — Llama 3 8B on Financial PhraseBank |
-| exp1_c_mistral.ipynb | Experiment 1 — Mistral 7B on Financial PhraseBank |
-| exp1_d_gemma3.ipynb | Experiment 1 — Gemma 3 4B on Financial PhraseBank |
+| exp1_a_finbert.ipynb | Experiment 1 - FinBERT on Financial PhraseBank |
+| exp1_b_llama3.ipynb | Experiment 1 - Llama 3 8B on Financial PhraseBank |
+| exp1_c_mistral.ipynb | Experiment 1 - Mistral 7B on Financial PhraseBank |
+| exp1_d_gemma3.ipynb | Experiment 1 - Gemma 3 4B on Financial PhraseBank |
 | exp2_dataset_preparation_fnspid.ipynb | Dataset sampling and preparation for Experiment 2 |
-| exp2_a_finbert.ipynb | Experiment 2 — FinBERT directional prediction |
-| exp2_b_llama3.ipynb | Experiment 2 — Llama 3 8B directional prediction |
-| exp2_c_mistral.ipynb | Experiment 2 — Mistral 7B directional prediction |
-| exp2_d_gemma3.ipynb | Experiment 2 — Gemma 3 4B directional prediction |
+| exp2_a_finbert.ipynb | Experiment 2 - FinBERT directional prediction |
+| exp2_b_llama3.ipynb | Experiment 2 - Llama 3 8B directional prediction |
+| exp2_c_mistral.ipynb | Experiment 2 - Mistral 7B directional prediction |
+| exp2_d_gemma3.ipynb | Experiment 2 - Gemma 3 4B directional prediction |
 
 ### Note on Notebook Rendering
 
@@ -162,19 +162,13 @@ The same links are also available in [NOTEBOOK_LINKS.md](./NOTEBOOK_LINKS.md).
 
 **Financial PhraseBank (sentences_50agree)**
 
-4,846 labelled sentences from financial news articles — used in Experiment 1
-
 https://huggingface.co/datasets/takala/financial_phrasebank
 
 **FNSPID Financial News Dataset**
 
-15.7 million+ financial news records linked to S&P 500 companies
-
 https://huggingface.co/datasets/Zihan1004/FNSPID/blob/main/Stock_news/All_external.csv
 
 **Yahoo Finance (via yfinance)**
-
-Historical daily closing prices for 10 selected companies
 
 https://github.com/ranaroussi/yfinance
 
