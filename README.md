@@ -206,13 +206,13 @@ All four models perform at random chance level, consistent with the Efficient Ma
 
 ## Survey
 
-The practitioner survey titled *The Use of Large Language Models in Financial Sentiment Analysis: A Practitioner Survey* collected 33 responses from retail investors, finance professionals, and AI and data science professionals.
+The practitioner survey titled **The Use of Large Language Models in Financial Sentiment Analysis: A Practitioner Survey** collected 33 responses from retail investors, finance professionals, and AI and data science professionals.
 
 Raw response data and the Microsoft Forms summary report are available in the /survey folder.
 
 ---
 
-## How to Reproduce
+## How to Reproduce Google Colab Experiments
 
 ### Experiment 1
 
