@@ -1,0 +1,1001 @@
+ticker,date,headline,finbert_sentiment,close_price,next_close_1d,movement,mistral_sentiment,mistral_direction
+AAPL,2020-04-30,Apple CEO Tim Cook: Store Traffic Not Back To Pre-COVID-19 Levels In China,negative,70.98970031738281,69.84679412841797,0,negative,0
+AAPL,2020-03-13,"Apple Gets Upgrade, Futures Reverse Downward Course As Washington Stimulus Awaited",negative,67.16476440429688,58.52421188354492,0,positive,1
+AAPL,2020-03-24,"Rise In Semiconductor, Cloud Computing Stocks Could Set Tone For Broader Economy",positive,59.652591705322266,59.32399368286133,0,positive,1
+AAPL,2020-06-02,A Peek Into The Markets: US Stock Futures Up; Crude Oil Rises Over 2%,positive,78.33879852294922,78.77007293701172,1,positive,1
+AAPL,2020-04-15,Software Rises Above Semiconductors And Hardware As Tech Heads Into Earnings Season,positive,68.72566986083984,69.271728515625,1,positive,1
+AAPL,2020-04-22,These Companies Could Rebound Sharply After The COVID-19 Crisis,positive,66.71292114257812,66.45438385009766,0,positive,1
+AAPL,2020-03-17,"Morgan Stanley Maintains Overweight on Apple, Lowers Price Target to $328",negative,61.09753036499024,59.60186767578125,0,positive,1
+AAPL,2020-04-28,"Apple Earnings Ahead: Rough Quarter, iPhone Expectations And Getting Back To Business",negative,67.31214141845703,69.52301025390625,1,negative,0
+AAPL,2020-03-11,"Shares of several companies in the technology, software and semiconductor space are trading lower as equities sell off amid coronavirus fears. The virus spread has disrupted economic activity across sectors and caused global macro uncertainty.",negative,66.55103302001953,59.97880172729492,0,negative,0
+AAPL,2020-05-28,"Tech Companies Aren't 'State Actors,' Judge Dismisses Conservative Bias Lawsuit Against Facebook, Twitter, Google, Apple",negative,77.10562133789062,77.03050231933594,0,positive,1
+AAPL,2020-03-10,"Airlines Continue Suffering As Delta, American Announce Schedule Cuts, But Crude Bounces",negative,68.94554138183594,66.55103302001953,0,negative,0
+AAPL,2020-05-01,"UPDATE: Cascend Reiterates Buy On Apple, Lowers Target To $325 Notes 'not providing guidance is worrying even as the company performs solidly in a difficult environment",negative,69.84679412841797,70.8350601196289,1,negative,0
+AAPL,2020-06-02,MoneyGram Shares Jump 50% As Western Union Reportedly Looks For Acquisition,positive,78.33879852294922,78.77007293701172,1,positive,1
+AAPL,2020-05-19,"Walmart Earnings Look Strong Across the Board, But Home Depot Down After Missing on EPS",negative,75.86756896972656,77.34303283691406,1,negative,0
+AAPL,2020-03-16,"Amazon Hiring 100,000 Workers To Meet Increased Demand As Coronavirus Forces Social Distancing",negative,58.52421188354492,61.09753036499024,1,positive,1
+AAPL,2020-04-06,"3M, Trump Strike Deal To Import 166.5M Masks From China, Company To Continue To Supply Abroad",positive,63.41956329345703,62.68502426147461,0,positive,1
+AAPL,2020-05-27,"Deutsche Bank Maintains Buy on Apple, Raises Price Target to $320",positive,77.07169342041016,77.10562133789062,1,positive,1
+AAPL,2020-04-21,Shares of several technology companies are trading lower amid overall market weakness following a collapse in oil prices. Oil has been negatively impacted by excess supply and low demand amid the coronavirus pandemic.,negative,64.84513854980469,66.71292114257812,1,negative,0
+AAPL,2020-03-10,Shares of several technology companies are trading higher as markets look to rebound from Monday's selloff. The technology sector has been highly impacted by the coronavirus due to its China exposure and sensitivity to economic conditions.,negative,68.94554138183594,66.55103302001953,0,positive,1
+AAPL,2020-05-21,Apple Vs. Tesla: Morgan Stanley Breaks Down The Parallels,negative,76.76641082763672,77.26068115234375,1,positive,1
+AAPL,2020-03-13,Apple shares are trading higher after Wells Fargo upgraded the stock from Equal-Weight to Overweight and announced a $315 price target. NOTE: The overall market is also rebounding from Thursday's crash.,positive,67.16476440429688,58.52421188354492,0,positive,1
+AAPL,2020-06-01,Apple Cuts iPhone Prices in China To Push Sales As Country Reopens Economy,negative,77.97782897949219,78.33879852294922,1,positive,1
+AAPL,2020-04-27,Raymond James On Reports Of Apple iPhone Delays Says 'Apple suppliers we spoke with hadn't seen changes yet'; Says 'Our conclusion is that AAPL is likely selectively notifying suppliers.',negative,68.42121124267578,67.31214141845703,0,positive,1
+AAPL,2020-04-08,"JP Morgan Maintains Overweight on Apple, Lowers Price Target to $335",negative,64.2894287109375,64.75332641601562,1,positive,1
+AAPL,2020-03-11,"As Market Gyrates, Investors Seek Direction From Large Stocks Including Apple, Microsoft",positive,66.55103302001953,59.97880172729492,0,positive,1
+AAPL,2020-05-21,"As The Global Economy Weighs Fears Of A Recession, Travel Is Already In A Depression",negative,76.76641082763672,77.26068115234375,1,negative,0
+AAPL,2020-04-30,"Apple CEO Tim Cook ""Despite COVID-19's unprecedented global impact, we're proud to report that Apple grew for the quarter, driven by an all-time record in Services and a quarterly record for Wearables""",positive,70.98970031738281,69.84679412841797,0,positive,1
+AAPL,2020-03-23,Foxconn Has Secured Enough Workers To Meet 'Seasonal Demand' At All Major Chinese Plants,positive,54.21360778808594,59.652591705322266,1,positive,1
+AAPL,2020-04-30,Apple Shares Trading Higher 2.3% Following Q2 Earnings,positive,70.98970031738281,69.84679412841797,0,positive,1
+AAPL,2020-05-27,Same Old Leadership Song Lifts These Leveraged ETFs,positive,77.07169342041016,77.10562133789062,1,positive,1
+AAPL,2020-04-07,"Shares of several technology, semiconductor, and software companies are trading higher amid optimism that coronavirus cases in Asia are potentially easing. Global slowing cases could raise hopes of a sooner return to spending and economic activity.",positive,62.68502426147461,64.2894287109375,1,positive,1
+AAPL,2020-05-01,"Apple, Huawei Each Captured a Higher Share of China's Smartphone Market in Q1, Says Canalys",positive,69.84679412841797,70.8350601196289,1,positive,1
+AAPL,2020-05-04,Apple Grows Smartphone Market Share Even As Overall Market Declines At Record Pace,positive,70.8350601196289,71.89822387695312,1,positive,1
+AAPL,2020-04-09,"Nomura Maintains Neutral on Apple, Raises Price Target to $240",positive,64.75332641601562,66.02428436279297,1,positive,1
+AAPL,2020-04-16,"Deutsche Bank Maintains Buy on Apple, Raises Price Target to $285",positive,69.271728515625,68.3318099975586,0,positive,1
+AAPL,2020-03-27,Huawei Releases Latest Flagship Phone Amid Global Coronavirus Lockdown,positive,59.86041259765625,61.56869888305664,1,positive,1
+AAPL,2020-03-27,"Loup Ventures Says Believes It Is Still Likely Apple Will Host A Fall 5G iPhone Launch; Notes China Manufacturing And Assembly, Including Some Apple Partners Are Starting To Ramp Up Production",positive,59.86041259765625,61.56869888305664,1,positive,1
+AAPL,2020-05-27,Leidos Awarded $84.6M Payment from VirnetX Lawsuit vs Apple,positive,77.07169342041016,77.10562133789062,1,positive,1
+AAPL,2020-04-01,Some Staples Stocks Bouncing Back After Sliding In Recent Rally As Caution Tightens Grip,negative,58.210105895996094,59.18143844604492,1,negative,0
+AAPL,2020-03-25,"A Peek Into The Markets: US Stock Futures Surge After Senate, White House Strike Deal On Coronavirus Stimulus Package",positive,59.32399368286133,62.445796966552734,1,positive,1
+AAPL,2020-03-30,Shares of several technology companies are trading higher as equities continue to rise following last week's rebound amid US stimulus measures.,positive,61.56869888305664,61.44305038452149,0,positive,1
+AAPL,2020-03-16,Apple Fined â¬1.1B byFrench Competition Authority for Anti-competitive Behaviour in Its Distribution Network,negative,58.52421188354492,61.09753036499024,1,negative,0
+AAPL,2020-04-16,Apple shares are trading higher after Deutsche Bank maintained its Buy rating on the stock and raised its price target from $270 to $285 per share.,positive,69.271728515625,68.3318099975586,0,positive,1
+AAPL,2020-05-01,"UBS Maintains Buy on Apple, Raises Price Target to $325",positive,69.84679412841797,70.8350601196289,1,positive,1
+AAPL,2020-03-17,So-Called 'MAGA' Stocks Lose $1T Market Value In A Single Day,negative,61.09753036499024,59.60186767578125,0,negative,0
+AAPL,2020-05-29,"Remote Working Boosts Peripherals, PC Sales: 4 Stocks to Buy",positive,77.03050231933594,77.97782897949219,1,positive,1
+AAPL,2020-04-30,Apple shares are trading higher after the company reported better-than-expected Q2 EPS and sales results. UPDATE: Shares have since reversed.,negative,70.98970031738281,69.84679412841797,0,positive,1
+AAPL,2020-04-17,"Benzinga's Top Upgrades, Downgrades For April 17, 2020",negative,68.3318099975586,66.9134750366211,0,positive,1
+AAPL,2020-04-01,Apple Analyst Projects 'Multi-Quarter Impact' On iPhone Shipments From COVID-19 Pandemic,negative,58.210105895996094,59.18143844604492,1,negative,0
+AAPL,2020-04-06,Apple shares are trading higher potentially due to the company announcing it would produce 1 million face shields per week for healthcare workers.,positive,63.41956329345703,62.68502426147461,0,positive,1
+AAPL,2020-04-01,"A Peek Into The Markets: US Stock Futures Tumble Ahead Of ADP, Manufacturing Reports",negative,58.210105895996094,59.18143844604492,1,negative,0
+AAPL,2020-05-28,Kroger: Capital Preservation and More at a Good Price,positive,77.10562133789062,77.03050231933594,0,positive,1
+AAPL,2020-03-30,Apple Supplier Foxconn's Profit Falls Nearly 25% Year-Over-Year: Report,negative,61.56869888305664,61.44305038452149,0,negative,0
+AAPL,2020-03-11,"UPDATE: BofA Securities Reiterates Buy On Apple, Lowers Target To $320 As Firm Notes 'Lowering estimates on weaker global demand, some delay in product launches'",negative,66.55103302001953,59.97880172729492,0,negative,0
+AAPL,2020-04-22,Another Autonomous Trucking Startup Announces Layoffs,negative,66.71292114257812,66.45438385009766,0,negative,0
+AAPL,2020-04-27,"B of A Securities Earlier Reiterated Buy on Apple, Raised Price Target to $310",positive,68.42121124267578,67.31214141845703,0,positive,1
+AAPL,2020-03-27,"Shares of several technology, semiconductor, and software companies are trading lower as a potential sell-off from this week's strength. While US stimulus legislation has boosted economic optimism, demand concerns still exist amid the coronavirus.",negative,59.86041259765625,61.56869888305664,1,negative,0
+AAPL,2020-04-30,"Apple CEO, On TV+, Says Have Seen A Significant Uptick In Number Of People Who Are Viewing The Content As Well As The Engagement With Content",positive,70.98970031738281,69.84679412841797,0,positive,1
+AAPL,2020-05-13,"Retail Pro Says Giants Like Amazon, Walmart Will Prevail After Coronavirus: 'It's Not Fair'",negative,74.53744506835938,74.995361328125,1,positive,1
+AAPL,2020-04-24,Hearing Credit Suisse Asia Sees Apple Cutting iPhone Jul. To Sept. Production By 30% Given A Delay In Production Ramp For 2020 Models,negative,68.37289428710938,68.42121124267578,1,negative,0
+AAPL,2020-03-25,Apple Shares Tank As Report Says New iPhone Launch Could Be Moved To Next Year,negative,59.32399368286133,62.445796966552734,1,negative,0
+AAPL,2020-03-27,"Trump Lashes Out At Washington, Michigan Governors For Pandemic Response: 'We Don't Like To See The Complaints'",negative,59.86041259765625,61.56869888305664,1,negative,0
+AAPL,2020-04-22,Gene Munster Sees Apple And Tesla As Biggest Winners This Earnings Season,positive,66.71292114257812,66.45438385009766,0,positive,1
+AAPL,2020-03-11,Coronavirus â Another Severe Hit To The Automotive Industry,negative,66.55103302001953,59.97880172729492,0,negative,0
+AAPL,2020-05-01,Apple Increased Smartphone Market Share In China In Q1 During Pandemic: Report,positive,69.84679412841797,70.8350601196289,1,positive,1
+AAPL,2020-03-11,"UPDATE: BofA Securities On Apple Notes 'We reiterate Buy on large cash balance/optionality, expected new buyback authorization in April and upcoming 5G cycle'",positive,66.55103302001953,59.97880172729492,0,positive,1
+AAPL,2020-04-21,Apple Shares Spike 1.5% Amid Nikkei Report Co. Aiming To Increase iPhone Output By 4% Through Mar.,positive,64.84513854980469,66.71292114257812,1,positive,1
+AAPL,2020-05-01,"Apple Has 'Better Days Ahead,' Analysts Say After Q1 Earnings Beat",positive,69.84679412841797,70.8350601196289,1,positive,1
+AAPL,2020-04-30,"Apple CFO Says Due To Reduced Level Of Economic Activity, Services Like Apple Care And Advertising Have Been Impacted",negative,70.98970031738281,69.84679412841797,0,negative,0
+AAPL,2020-05-20,"Apple Looking To Diversify Its Manufacturing Base, Will Make Headphones In Vietnam",positive,77.34303283691406,76.76641082763672,0,positive,1
+AAPL,2020-04-17,"Gene Munster Dismisses Goldman's Apple Downgrade, Says Cupertino Has Long-Term Earnings Power",positive,68.3318099975586,66.9134750366211,0,positive,1
+AAPL,2020-04-16,"Morgan Stanley Misses On EPS, But Shows Strong Trading Results For Q1 As Banks Wrap Up",positive,69.271728515625,68.3318099975586,0,positive,1
+AAPL,2020-04-30,Apple CEO Tim Cook: Apple To Work With Google To Improve COVID-19 Contact Tracing,positive,70.98970031738281,69.84679412841797,0,positive,1
+AAPL,2020-06-02,'Apple is tracking iPhones stolen by looters' -Earlier NY Post Article,negative,78.33879852294922,78.77007293701172,1,negative,0
+AAPL,2020-05-01,"Canaccord Genuity Maintains Buy on Apple, Raises Price Target to $310",positive,69.84679412841797,70.8350601196289,1,positive,1
+AAPL,2020-04-17,"Goldman Sachs Downgrades Apple to Sell, Lowers Price Target to $233",negative,68.3318099975586,66.9134750366211,0,negative,0
+AAPL,2020-04-08,Disney Shares Climb 7% As Video On Demand Service Crosses 50M Subscribers,positive,64.2894287109375,64.75332641601562,1,positive,1
+AAPL,2020-04-03,Apple Tells Staff U.S. Stores to Remain Closed Until Early May,negative,58.33090972900391,63.41956329345703,1,negative,0
+AAPL,2020-05-01,A Peek Into The Markets: US Stock Futures Point To A Lower Open,negative,69.84679412841797,70.8350601196289,1,negative,0
+AAPL,2020-04-13,"Raymond James Maintains Outperform on Apple, Lowers Price Target to $305",negative,66.02428436279297,69.35872650146484,1,positive,1
+AAPL,2020-03-17,Apple Hit With $1.2B Fine By French Antitrust Authorities,negative,61.09753036499024,59.60186767578125,0,negative,0
+AAPL,2020-04-09,Apple At A 'Fork In The Road' As Disney+ Reports 50M Subscribers,negative,64.75332641601562,66.02428436279297,1,positive,1
+AAPL,2020-05-18,"More Than 25 US Apple Stores To Reopen, 100 Now Open Around The World",positive,76.3084945678711,75.86756896972656,0,positive,1
+AAPL,2020-05-29,"Costco Shares Come Under Pressure Despite Strong Earnings, Same-Store Sales",negative,77.03050231933594,77.97782897949219,1,positive,1
+AAPL,2020-05-15,"China's Global Times Mentions Qualcomm, Cisco, Apple And Boeing As 'four companies named by Chinese sources as possible targets for retaliation amid US moves against China's Huawei'",negative,74.55196380615234,76.3084945678711,1,negative,0
+AAPL,2020-05-20,Smartphone Sales Picking up in China,positive,77.34303283691406,76.76641082763672,0,positive,1
+AAPL,2020-05-08,Spotify CEO's Apple Barb Backfires As Sonos Points Out The 'Solid Irony',negative,75.1383056640625,76.32061767578125,1,negative,0
+AAPL,2020-04-27,"UPDATE: B of A Securities Reiterates Buy On Apple, Raises Target To $310 Notes 'To guide or not guide; that is the question'; Firm Expects 'AAPL to report F2Q well below consensus (not fully adjusted) and to guide well below consensus as well'",positive,68.42121124267578,67.31214141845703,0,negative,0
+AAPL,2020-04-17,A Peek Into The Markets: US Stock Futures Signal Higher Start On Wall Street,positive,68.3318099975586,66.9134750366211,0,positive,1
+AAPL,2020-03-10,Peloton Shares Tick To Session Low As Hearing Report Apple Working On 'Guided Workout' Fitness App,negative,68.94554138183594,66.55103302001953,0,negative,0
+AAPL,2020-05-01,"UPDATE: Raymond James On Apple Notes 'and those who don't buy a phone this year will have a strong incentive to buy one next year, particularly with more complete 5G networks and our belief of a stronger 2021 iPhone feature set'",positive,69.84679412841797,70.8350601196289,1,positive,1
+AAPL,2020-03-23,"Shares of some technology companies are trading lower amid market volatility. Sunday's fiscal stimulus bill failed a procedural senate vote while the Fed on Monday announced stimulus measures. NOTE: Sector is mixed, with some names up for the session.",negative,54.21360778808594,59.652591705322266,1,negative,0
+AAPL,2020-03-23,"Nomura Instinet Maintains Neutral on Apple, Lowers Price Target to $225",negative,54.21360778808594,59.652591705322266,1,positive,1
+AAPL,2020-04-30,Apple CFO Says Expects YoY Revenue Performance To Improve In Jun. Qtr,positive,70.98970031738281,69.84679412841797,0,positive,1
+AAPL,2020-05-08,"Apple Says Social-Distancing Guidelines Will Limit Number Of Customers In Stores, May Create Delays For Walk-In Customers",negative,75.1383056640625,76.32061767578125,1,negative,0
+AAPL,2020-04-27,Global Smartphone Shipments to Fall to 1.15B Units in 2020,negative,68.42121124267578,67.31214141845703,0,negative,0
+AAPL,2020-04-08,Watching Apple Shares; Hearing Traders Circulating Word Of Earlier Article From China Publication Suggesting Apple Cut Orders From China Suppliers,negative,64.2894287109375,64.75332641601562,1,negative,0
+AAPL,2020-04-30,Apple CEO Tim Cook: We Envision iPad And Mac To Have Improving Year-Over-Year Performances In This Current Quarter,positive,70.98970031738281,69.84679412841797,0,positive,1
+AAPL,2020-04-13,"Bloomberg Reports iPhone 12 to Feature Redesigned Stainless Steel Chasis, Cheaper Homepod to be Out Later This Year",positive,66.02428436279297,69.35872650146484,1,positive,1
+AAPL,2020-05-20,Facebook Plans To Resume Work In Office In July At 25% Capacity And Safety Measures In Place,positive,77.34303283691406,76.76641082763672,0,positive,1
+AMZN,2020-05-04,Amazon Plans To Extend Closure Of French Warehouses Until May 8,negative,115.79949951171876,115.88999938964844,1,negative,0
+AMZN,2020-04-30,"Amazon Says Has Seen Lower Demand For Discretionary Products Such As Apparel, Shoes And Wireless Products",positive,123.6999969482422,114.302001953125,0,negative,0
+AMZN,2020-06-02,4 Blue Chips That Lived Up To Their Title During the Pandemic,positive,123.62049865722656,123.91999816894533,1,positive,1
+AMZN,2020-05-11,AMC Shares Largely Unaffected As Traders Circulate Word CNBC's David Faber Questioned Amazon Rumor,negative,120.4499969482422,117.84750366210938,0,positive,1
+AMZN,2020-05-20,Facebook's New Shopping Feature Lifts Stock To All-Time Highs,positive,124.89700317382812,122.33699798583984,0,positive,1
+AMZN,2020-04-28,New York AG Raises Concerns about Amazon's Pandemic Safety Practices,negative,115.7040023803711,118.635498046875,1,negative,0
+AMZN,2020-05-01,"UPDATE: Judiciary Panel Says Will Investigate Related To Amazon 'Possibly Criminally False, Perjurious' Statements By Co. About Business Practices",negative,114.302001953125,115.79949951171876,1,negative,0
+AMZN,2020-06-01,"UK Supply Chain Startup Beacon Raises $15M From Amazon CEO, Others",positive,123.552001953125,123.62049865722656,1,positive,1
+AMZN,2020-04-30,12 Stocks Moving In Thursday's After-Hours Session,negative,123.6999969482422,114.302001953125,0,positive,1
+AMZN,2020-05-01,"Disappointment From Amazon, Apple Weighs On Market As Investors Also Consider Energy Earnings",negative,114.302001953125,115.79949951171876,1,negative,0
+AMZN,2020-05-27,Amazon Looks To Double-Down On Self-Driving Tech With Zoox Acquisition: WSJ,positive,120.51950073242188,120.05500030517578,0,positive,1
+AMZN,2020-04-28,"UPDATE: Feinseth Also Notes Anticompetition Concerns With Allegations Of Co. Potentially Using Sales Data To Create Preferred Pricing, Mentions News Of Judiciary Committee Calling For Investigation Into Co.",negative,115.7040023803711,118.635498046875,1,negative,0
+AMZN,2020-05-29,"UPS Slaps 'Peak' Surcharge On Amazon, Walmart, Others, As Delivery Requests Balloon Post Lockdown Ease",negative,122.11849975585938,123.552001953125,1,positive,1
+AMZN,2020-04-30,Amazon shares are trading lower after the company reported worse-than-expected Q1 EPS results.,negative,123.6999969482422,114.302001953125,0,negative,0
+AMZN,2020-05-12,"Amazon Shares Unaffected Amid Report Coalition Of 13 US Attorney Generals Have Asked Co. To Provide Data About Infections, Deaths Among Its Workers, Evidence Co Is In Compliance With State Paid Sick Leave Laws",negative,117.84750366210938,118.39600372314452,1,positive,1
+AMZN,2020-05-18,"Walmart, Target And Home Depot Among Major Retailers Set To Report Earnings In Days Ahead",positive,121.31300354003906,122.46649932861328,1,positive,1
+AMZN,2020-04-30,Amazon Says Increased Grocery Delivery Capacity By More Than 60%,positive,123.6999969482422,114.302001953125,0,positive,1
+AMZN,2020-06-10,Tech Stocks And FAANGS Strong Again To Start Day As Market Awaits Fed,positive,132.37249755859375,127.89800262451172,0,positive,1
+AMZN,2020-04-30,"Amazon.com Q1 EPS $5.010 Misses $6.250 Estimate, Sales $75.500B Beat $73.610B Estimate",positive,123.6999969482422,114.302001953125,0,positive,1
+AMZN,2020-04-28,"Amazon, Walmart Shares Unaffected Following Earlier Article From The Intercept 'As Amazon, Walmart, Others Profit Amid Coronavirus Crisis, Their Essential Workers Plan Unprecedented Strike'",negative,115.7040023803711,118.635498046875,1,positive,1
+AMZN,2020-05-01,"Canaccord Genuity Maintains Buy on Amazon.com, Raises Price Target to $2750",positive,114.302001953125,115.79949951171876,1,positive,1
+AMZN,2020-05-13,Amazon to Extend France Warehouse Closures to May 18,negative,118.39600372314452,119.44249725341795,1,negative,0
+AMZN,2020-04-30,"Amazon Reports Mixed Q1 Earnings, Plans To Spend $4B On Coronavirus-Related Expenses",negative,123.6999969482422,114.302001953125,0,positive,1
+AMZN,2020-05-05,'An Amazon warehouse worker in New York has died of COVID-19' -The Verge,negative,115.88999938964844,117.56300354003906,1,negative,0
+AMZN,2020-05-11,"AMC Shares Fall To Session Low, Still Up 30% For Session; Traders Circulate Deadline Article Suggesting Co. Sources Say No Talks With Amazon Happening",negative,120.4499969482422,117.84750366210938,0,negative,0
+AMZN,2020-05-28,"'Amazon's website is down for many users across the US' -Tweet From Business Insider; BZ NOTE: Benzinga Reporters In NYC, Detroit Not Experiencing Issues",negative,120.05500030517578,122.11849975585938,1,negative,0
+AMZN,2020-05-27,Bezos Says Amazon's Strategy Is To Undercharge For Prime Membership Relative TO ITs value For Customers,positive,120.51950073242188,120.05500030517578,0,positive,1
+AMZN,2020-05-01,"UPDATE: Judiciary Panel Says Will Investigate Related To Amazon 'Possibly Criminally False, Perjurious' Statements By Co. About Business Practices",negative,114.302001953125,115.79949951171876,1,negative,0
+AMZN,2020-04-29,Poland Plans to Introduce a 1.5% Surcharge on the Revenue of Video-on-demand Platforms Such as Netflix,positive,118.635498046875,123.6999969482422,1,negative,0
+AMZN,2020-05-22,A Peek Into The Markets: US Stock Futures Down Ahead Of Three-Day Weekend,negative,121.84400177001952,121.09300231933594,0,negative,0
+AMZN,2020-05-01,"UPDATE: Morgan Stanley Maintains Overweight On Amazon, Raises Target To $2,600 Notes 'Accelerating growth and consumer demand still outpacing AMZN's network capacity speak to the structural share gains afoot'",positive,114.302001953125,115.79949951171876,1,positive,1
+AMZN,2020-05-26,In Consumers We Trust: 3 Leveraged ETFs That Surged In April,positive,121.09300231933594,120.51950073242188,0,positive,1
+AMZN,2020-05-14,Today's Pickup: COVID-19 Gives Smaller e-Commerce Firms A Chance Against Amazon,positive,119.44249725341795,120.48899841308594,1,positive,1
+AMZN,2020-05-05,"Retail Sector Preview: Pandemic Pits E-Commerce Giant Amazon Against Big Box Stores, Mall Outlets",negative,115.88999938964844,117.56300354003906,1,positive,1
+AMZN,2020-05-01,Amazon shares are trading lower after the company reported worse-than-expected Q1 EPS results. The company also expects to spend $4 billion on COVID-related expenses.,negative,114.302001953125,115.79949951171876,1,negative,0
+AMZN,2020-05-19,"Walmart Earnings Look Strong Across the Board, But Home Depot Down After Missing on EPS",negative,122.46649932861328,124.89700317382812,1,negative,0
+AMZN,2020-05-01,"JMP Securities Maintains Market Outperform on Amazon.com, Raises Price Target to $2850",positive,114.302001953125,115.79949951171876,1,positive,1
+AMZN,2020-05-01,Mid-Morning Market Update: Markets Open Lower; Amazon Posts Mixed Q1 Results,negative,114.302001953125,115.79949951171876,1,negative,0
+AMZN,2020-06-01,"Morgan Stanley Maintains Overweight on Amazon.com, Raises Price Target to $2800",positive,123.552001953125,123.62049865722656,1,positive,1
+AMZN,2020-05-15,"Hedge Fund Duquesne 13F Shows Increased Stakes In Facebook, Alibaba, Netflix, Amazon, Google, Alnylman",positive,120.48899841308594,121.31300354003906,1,positive,1
+AMZN,2020-04-28,Tigress Financial Analyst Ivan Feinseth On Amazon Weakness Notes 'The stock has had an incredible run making new all-time highs in a difficult market' as Co. 'has benefited from being the place to go to during the shelter in place lockdown',positive,115.7040023803711,118.635498046875,1,positive,1
+AMZN,2020-05-01,"BMO Capital Maintains Outperform on Amazon.com, Raises Price Target to $2850",positive,114.302001953125,115.79949951171876,1,positive,1
+AMZN,2020-05-20,McDonald's Faces Class Action Over Lack Of Worker Protection Against Coronavirus,negative,124.89700317382812,122.33699798583984,0,negative,0
+AMZN,2020-05-11,Former Google CEO Eric Schmidt Cut Last Ties With The Company: Report,negative,120.4499969482422,117.84750366210938,0,positive,1
+AMZN,2020-05-01,"KeyBanc Maintains Overweight on Amazon.com, Raises Price Target to $2700",positive,114.302001953125,115.79949951171876,1,positive,1
+AMZN,2020-06-02,Tesla CEO Musk Says Other Three Officers Should Be Charged In Floyd's Murder Case,negative,123.62049865722656,123.91999816894533,1,positive,1
+AMZN,2020-05-01,"Credit Suisse Maintains Outperform on Amazon.com, Lowers Price Target to $2760",negative,114.302001953125,115.79949951171876,1,positive,1
+AMZN,2020-05-01,"Benchmark Maintains Buy on Amazon.com, Raises Price Target to $2650",positive,114.302001953125,115.79949951171876,1,positive,1
+AMZN,2020-05-13,Amazon Extended Increased Hourly Pay Through May 30,positive,118.39600372314452,119.44249725341795,1,positive,1
+AMZN,2020-05-06,"Coronavirus Drives Surge In Online Grocery Penetration For Players Like Amazon Prime Now, Walmart",positive,117.56300354003906,118.38050079345705,1,positive,1
+AMZN,2020-05-15,Quick Retreat: Impressive Thursday Turnaround Halted in Its Tracks Amid Fresh Trade Tiff,negative,120.48899841308594,121.31300354003906,1,negative,0
+AMZN,2020-05-27,Same Old Leadership Song Lifts These Leveraged ETFs,positive,120.51950073242188,120.05500030517578,0,positive,1
+AMZN,2020-05-01,"UPDATE: Morgan Stanley On Amazon Notes 'Moreover, efficiency/scale gains are driving EBIT too, which AMZN is wisely investing in safety, a next competitive edge. PT to $2,600, Bull case $3,200. Remains top pick'",positive,114.302001953125,115.79949951171876,1,positive,1
+AMZN,2020-05-15,USPS on horns of dilemma as it weighs parcel rate hikes,negative,120.48899841308594,121.31300354003906,1,positive,1
+AMZN,2020-05-01,A Peek Into The Markets: US Stock Futures Point To A Lower Open,negative,114.302001953125,115.79949951171876,1,negative,0
+AMZN,2020-06-01,"Amazon Curtails Some Service, Highways Closed, As Protests Impact Freight And Driver Safety",negative,123.552001953125,123.62049865722656,1,negative,0
+AMZN,2020-05-11,"'Amazon needs movies more than a multiplex' -BNN Bloomberg; Mentions 'Lions Gate Entertainment Corp., ViacomCBS Inc.'s Paramount Pictures, Sony Pictures and Metro-Goldwyn-Mayer Inc. are all options and may be willing sellers'",positive,120.4499969482422,117.84750366210938,0,positive,1
+AMZN,2020-04-28,UPDATE: Feinseth Tells Benzinga 'There are also concerns that the results may not be strong enough and could be risk to guidance that could cause a selloff when the company reports its results after the close on Thursday',negative,115.7040023803711,118.635498046875,1,negative,0
+AMZN,2020-05-01,"Susquehanna Maintains Positive on Amazon.com, Raises Price Target to $3000",positive,114.302001953125,115.79949951171876,1,positive,1
+AMZN,2020-05-20,Facebook Plans To Resume Work In Office In July At 25% Capacity And Safety Measures In Place,positive,124.89700317382812,122.33699798583984,0,positive,1
+AMZN,2020-05-27,"Trump Gets Mad Over Fact Check Warning On Twitter, Claims Election Interference",negative,120.51950073242188,120.05500030517578,0,negative,0
+AMZN,2020-04-30,3 Analyst Takes On eBay After 'Big Improvement' In Q1,positive,123.6999969482422,114.302001953125,0,positive,1
+AMZN,2020-04-29,"Locked Down, Demand Up: Amazon Shines As Virus Economy Plays To Its Strengths",positive,118.635498046875,123.6999969482422,1,positive,1
+AMZN,2020-05-21,Climate Change: Up And Down Pattern Continues As Week Advances And Powell Awaited,negative,122.33699798583984,121.84400177001952,0,positive,1
+AMZN,2020-06-01,"Gun, Security Stocks Trade Higher After Weekend Protests Turn Violent And Destructive",negative,123.552001953125,123.62049865722656,1,negative,0
+AMZN,2020-05-28,Hearing Amazon Has Said It Will Keep 125K Of 175K Jobs Added During Pandemic As Permanent Positions,negative,120.05500030517578,122.11849975585938,1,positive,1
+AMZN,2020-05-01,"RBC Capital Maintains Outperform on Amazon.com, Raises Price Target to $2700",positive,114.302001953125,115.79949951171876,1,positive,1
+AMZN,2020-06-09,"BofA Raises Amazon Target On Sales Upside, Accelerating Unit Growth",positive,130.04299926757812,132.37249755859375,1,positive,1
+AMZN,2020-05-27,These 10 Stocks Have Surged During The Coronavirus Pandemic,positive,120.51950073242188,120.05500030517578,0,positive,1
+AMZN,2020-05-13,"Retail Pro Says Giants Like Amazon, Walmart Will Prevail After Coronavirus: 'It's Not Fair'",negative,118.39600372314452,119.44249725341795,1,positive,1
+AMZN,2020-04-30,From Amazon Earnings Conference Call: Saw Big Increase In Grocery Sales In Mar.,positive,123.6999969482422,114.302001953125,0,positive,1
+AMZN,2020-06-01,Amazon Looks To Establish Supply Chain Trust With New Blockchain Patent,positive,123.552001953125,123.62049865722656,1,positive,1
+AMZN,2020-05-01,"MKM Partners Maintains Buy on Amazon.com, Raises Price Target to $2525",positive,114.302001953125,115.79949951171876,1,positive,1
+AMZN,2020-04-30,"Citigroup Maintains Buy on Amazon.com, Raises Price Target to $2700",positive,123.6999969482422,114.302001953125,0,positive,1
+AMZN,2020-04-30,From Amazon Earnings Conference Call: Sees Investing $1B In Coronavirus-Testing Capability In 2020,positive,123.6999969482422,114.302001953125,0,positive,1
+AMZN,2020-05-05,"U.S. Immigration And Customs Working With 3M, Amazon, Pfizer & Others To Curtail Imports Of Counterfeit Masks, Coronavirus Tests, Other Gear",negative,115.88999938964844,117.56300354003906,1,positive,1
+AMZN,2020-05-06,Amazon Emerges As The Winner Of The COVID-19 Outbreak,positive,117.56300354003906,118.38050079345705,1,positive,1
+AMZN,2020-04-28,UPS Faces Mix/Margin Challenges As COVID-19 Skews Shipping Choices,negative,115.7040023803711,118.635498046875,1,negative,0
+AMZN,2020-05-11,"Shares Of AMC Up 71% Pre-Market After Traders Circulate Daily Mail Report That Amazon Is In Talks With Odeon Cinemas, Which AMC Owns",positive,120.4499969482422,117.84750366210938,0,positive,1
+AMZN,2020-05-01,"Morgan Stanley Maintains Overweight on Amazon.com, Raises Price Target to $2600",positive,114.302001953125,115.79949951171876,1,positive,1
+AMZN,2020-05-01,Amazon Analysts React To Q1 Earnings: Stock Sell-Off Is Short-Sighted,negative,114.302001953125,115.79949951171876,1,positive,1
+AMZN,2020-04-28,"Amazon May Have Violated Labor And Whistleblower Laws, New York Preliminary Investigation Says",negative,115.7040023803711,118.635498046875,1,negative,0
+AMZN,2020-05-01,"Raymond James Maintains Outperform on Amazon.com, Raises Price Target to $2525",positive,114.302001953125,115.79949951171876,1,positive,1
+AMZN,2020-04-28,Seeing Reports Of Sheeting Investigation Outside Amazon Fulfillment Center,negative,115.7040023803711,118.635498046875,1,positive,1
+AMZN,2020-05-12,AMC's Stock Still In The Spotlight As Wall Street Digests Amazon Rumor,positive,117.84750366210938,118.39600372314452,1,positive,1
+AMZN,2020-05-01,"Amazon, Exxon Mobil Earnings Weigh On Market To Start New Month As Caution Steers The Wheel",negative,114.302001953125,115.79949951171876,1,negative,0
+AMZN,2020-05-07,Amazon Says Planning To Prolong Closure Of French Warehouses Until May 13,negative,118.38050079345705,118.98049926757812,1,negative,0
+AMZN,2020-04-30,"Express Shares Rebound From Session Low, Spike ~25% Following Circulation Of TheDeal.com Chatter Amazon Could Be Interested In Co.",negative,123.6999969482422,114.302001953125,0,positive,1
+AMZN,2020-05-04,"GM, Disney In Focus Along With Friday's Payrolls Data As Stocks Appear Shaky To Start New Week",negative,115.79949951171876,115.88999938964844,1,positive,1
+AMZN,2020-05-01,"UBS Maintains Buy on Amazon.com, Raises Price Target to $3000",positive,114.302001953125,115.79949951171876,1,positive,1
+AMZN,2020-05-18,"Already Soaring, This Online Retail ETF Has E-Commerce Trends In Its Favor",positive,121.31300354003906,122.46649932861328,1,positive,1
+AMZN,2020-04-28,"Amazon shares are trading lower. Weakness potentially related to selloff following recent momentum, reopening of physical stores in some US states and potential US anti-competition investigation into co.",negative,115.7040023803711,118.635498046875,1,negative,0
+AMZN,2020-05-01,Mid-Afternoon Market Update: Dow Tumbles Over 600 Points; International Money Express Shares Climb,negative,114.302001953125,115.79949951171876,1,negative,0
+AMZN,2020-05-01,"UPDATE: Raymond James Maintains Outperform On Amazon, Raises Target To $2,525 As Firm Cites 4 Reasons:",positive,114.302001953125,115.79949951171876,1,positive,1
+AMZN,2020-04-30,'Jeff Bezos and Elon Musk win contracts for spacecraft to land NASA astronauts on the moon',positive,123.6999969482422,114.302001953125,0,positive,1
+AMZN,2020-05-13,"Investor 'Bill Miller doesn't see market as 'dramatically overvalued,' says Amazon could double in 3 years' -Tweet From CNBC",positive,118.39600372314452,119.44249725341795,1,positive,1
+AMZN,2020-05-19,"Amazon Announces New Fulfillment Center In Wilmington, Delaware",positive,122.46649932861328,124.89700317382812,1,positive,1
+AMZN,2020-04-29,Ford Terminates Electric Vehicle Program With Rivian,negative,118.635498046875,123.6999969482422,1,negative,0
+AMZN,2020-06-10,"Hearing Vertical Group Out Positive On Amazon, Saying Co.'s Ad Spend Revenues Are Increasing As Shipping Bottleneck Issues Begin To Abate",positive,132.37249755859375,127.89800262451172,0,positive,1
+AMZN,2020-05-05,"Stifel Downgrades Wayfair After Q1 Print, Says Coronavirus Sales Surge Will Dissipate",negative,115.88999938964844,117.56300354003906,1,negative,0
+GOOGL,2020-05-28,Alphabet (GOOGL) Up 5.8% Since Last Earnings Report: Can It Continue?,positive,70.33073425292969,71.08846282958984,1,positive,1
+GOOGL,2019-10-17,"Google Says Adding Ability For People To Report Crashes, Speed Traps & Traffic Slowdowns On Google Maps From Their iPhone; Feature Is Expanding To iOS",positive,62.12652206420898,61.71046447753906,0,positive,1
+GOOGL,2018-10-16,"Google Says It Will Charge Smartphone Makers Licensing Fees For Google Play, Gmail, YouTube And Other Apps In Europe; Says Licensing Fees Will Offset Revenue Lost As A Result Of Its Compliance Efforts With EU Antitrust Order",positive,56.18959045410156,55.91733932495117,0,negative,0
+GOOGL,2019-05-23,"Shares of technology companies are trading lower with the overall market, which has been relatively rangebound over the last 13 sessions. The technology sector is the second worst performing today.",negative,56.79756927490234,56.46382141113281,0,negative,0
+GOOGL,2018-12-20,Twitter Sinks After Citron Calls It 'The Harvey Weinstein Of Social Media',negative,50.75947189331055,49.15622329711914,0,negative,0
+GOOGL,2020-02-03,"Alphabet Inc. shares are trading higher, potentially in anticipation of the company's Q4 earnings release after the close today.",positive,73.52234649658203,71.6780776977539,0,positive,1
+GOOGL,2019-01-14,"UPDATE: Global Equities' Chowdhry Sees Recent Crackdown On Crypto Miners As Creating A Temporary Compute Overcapacity In The 'Super Cloud' Cos., Sees Intel Datacenter Business Experiencing Temporary Issues",negative,52.14452362060547,53.88018035888672,1,negative,0
+GOOGL,2020-02-11,"Deutsche Bank Seeking Bids From Microsoft, Google, Amazon to Overhaul Its Technology",positive,74.88408660888672,75.30906677246094,1,positive,1
+GOOGL,2019-10-29,Australia's ACCC Says Google Allegedly Misled Consumers on Collection and Use of Location Data,negative,62.51630783081055,62.518287658691406,1,negative,0
+GOOGL,2020-01-27,"'Google App Maker will be shut down on January 19, 2021' -Blogpost From Google's G Suite Updates Blog",negative,70.99968719482422,71.93048858642578,1,negative,0
+GOOGL,2019-09-06,"Russian Watchdog Says It Has Sent Requests To Google And Facebook Asking For Ban On Political Ads During Upcoming Local Election; Says If Facebook And Google Do Not Comply With Political Ads Ban, Russia Will Consider This Election Interference",negative,59.82158279418945,59.76950454711914,0,negative,0
+GOOGL,2020-02-20,Global Cloud Infrastructure Market Reached Sky High $107B In 2019,positive,75.22773742675781,73.56497192382812,0,positive,1
+GOOGL,2019-03-27,Oppenheimer: Trade Desk Shares Unduly Punished For Possible Cookie Restrictions By Google,negative,58.41767883300781,58.13302993774414,0,positive,1
+GOOGL,2020-04-16,"'$GOOGL, $FB on Watch as Barry Diller Sees 80% Drop in Ad Spend' -Tweet",negative,62.35612869262695,63.42578506469727,1,negative,0
+GOOGL,2018-11-07,Samsung Unveils New Screen Technology For Foldable Phones: Infinity Flex,positive,54.95777893066406,54.28285598754883,0,positive,1
+GOOGL,2019-06-27,Google Maps Launching Live Traffic Delays For Buses In Places Where Real-Time Information Direct From Local Transit Agencies Is Not Available,negative,53.39023208618164,53.696197509765625,1,positive,1
+GOOGL,2019-05-09,"Roku's Q1 Inspires 23% Stock Pop, Higher Price Targets Across The Board",positive,57.91979217529297,57.90342712402344,0,positive,1
+GOOGL,2019-10-29,"BMO Capital Maintains Market Perform on Alphabet, Raises Price Target to $1,250",positive,62.51630783081055,62.518287658691406,1,positive,1
+GOOGL,2018-08-22,Forward Industries Up ~4% At $1.57/Share As Forward's Subsidiary IPS Announces A New Deal With Google Over Twitter,positive,60.58675384521485,60.55748748779297,0,positive,1
+GOOGL,2019-06-26,Trump: Social Media Companies 'Trying To Rig The Election',negative,53.57321548461914,53.39023208618164,0,negative,0
+GOOGL,2018-07-31,Cramer's 'Clear Winners' From Earnings Season So Far,positive,60.85801315307617,61.14414596557617,1,positive,1
+GOOGL,2019-04-15,"Longbow Turns Bullish On Western Digital, Projects 'A Line Of Sight To Cyclical Recovery'",positive,60.82378768920898,61.09059143066406,1,positive,1
+GOOGL,2018-10-09,"Investors Seem To Be Fretting About Rising Yields, Global Economic Growth",negative,56.78913879394531,54.16036224365234,0,negative,0
+GOOGL,2019-11-05,This Day In Market History: Writer Strike Cripples Hollywood,negative,64.04268646240234,64.0213623046875,0,negative,0
+GOOGL,2019-04-30,UPDATE: Stifel Downgrades Alphabet To Hold As Firm Believes Co's 'multiple is likely to remain range bound over the next twelve months as a potential deceleration digestion period lies ahead with lower visibility into near-term revenue growth rates',negative,59.45659255981445,58.18510437011719,0,negative,0
+GOOGL,2018-12-17,"'Google's Secret China Project ""Effectively Ended"" After Internal Confrontation' -The Intercept",negative,50.86212158203125,51.74284744262695,1,negative,0
+GOOGL,2019-04-29,"Raymond James Maintains Outperform, $1.3K Target On Alphabet Ahead Of Co's Q1 'given solid continued advertising growth for both Search and YouTube, increasing Google Cloud traction, and an attractive valuation (~20.5x 2020 core EPS ex cash)'",positive,64.27873992919922,59.45659255981445,0,positive,1
+GOOGL,2020-04-29,Alphabet Shares Rise During Earnings Call As Q1 Advertising Revenue Better Than Expected,positive,66.55889129638672,66.78302764892578,1,positive,1
+GOOGL,2019-12-26,White House Says FAA Proposal Is 'Critical Step To Safely Integrate Commercial Drones Into The National Airspace',positive,67.5650634765625,67.17678833007812,0,positive,1
+GOOGL,2020-01-16,"Analyst: Amazon, Wayfair Big Winners From Impressive Online Holiday Sales Growth",positive,71.91363525390625,73.3696060180664,1,positive,1
+GOOGL,2020-03-11,"Shares of several companies in the technology, software and semiconductor space are trading lower as equities sell off amid coronavirus fears. The virus spread has disrupted economic activity across sectors and caused global macro uncertainty.",negative,60.0486946105957,55.12191390991211,0,negative,0
+GOOGL,2018-11-02,'Google's top Washington lobbyist is leaving' -Axios,negative,53.13534164428711,52.35380172729492,0,positive,1
+GOOGL,2020-03-09,"FANG Stocks Lose Nearly $150B In A Day As Coronavirus Fears Rise Even More, Oil Crashes",negative,60.29119110107422,63.23585891723633,1,negative,0
+GOOGL,2020-03-24,"Rise In Semiconductor, Cloud Computing Stocks Could Set Tone For Broader Economy",positive,56.03734970092773,54.62948989868164,0,positive,1
+GOOGL,2019-07-26,"UPDATE: Wedbush Maintains Outperform On Alphabet, Raises Target To $1.5K As Firm Believes 'that an OUTPERFORM rating is warranted given valuation upside and an unrivalled collection of high-profile and omnipresent core products and platforms'",positive,61.75062942504883,61.5830192565918,0,positive,1
+GOOGL,2019-01-29,"Google Will Post Solid Revenues, But Expenses May Weigh On Margins, BofA Says In Q4 Preview",positive,53.06442260742188,54.4494743347168,1,positive,1
+GOOGL,2020-02-03,Google Addresses Stadia Users Complaints About Lack Of Info For Upcoming Games,negative,73.52234649658203,71.6780776977539,0,positive,1
+GOOGL,2019-04-24,"Investor Survey Shows Bullish Sentiment On The Rise, But Not For FAANG Stocks",positive,62.48605346679688,62.847564697265625,1,negative,0
+GOOGL,2019-08-28,Report: US Officials Move To Block Trans-Pacific Cable,negative,58.206424713134766,59.22252655029297,1,negative,0
+GOOGL,2020-03-11,"As Market Gyrates, Investors Seek Direction From Large Stocks Including Apple, Microsoft",positive,60.0486946105957,55.12191390991211,0,positive,1
+GOOGL,2019-12-30,34 CEOs Who Resigned Or Were Fired In 2019,negative,66.43639373779297,66.42052459716797,0,negative,0
+GOOGL,2020-04-22,Facebook Bowed Down To Vietnamese Censorship After Local Servers Brought Down: Reuters,negative,62.404727935791016,63.03749084472656,1,negative,0
+GOOGL,2019-05-24,Analyst: Huawei Blacklist Is $400M Risk For Google,negative,56.46382141113281,56.51094055175781,1,negative,0
+GOOGL,2018-11-16,Munster: There's Something 'Fundamentally Wrong' With Facebook,negative,52.97565841674805,50.94989776611328,0,negative,0
+GOOGL,2018-08-14,13F From Soros Fund Shows Reduced Stake In Alphabet From 25.4K to 12.4K Shares,negative,62.39134216308594,61.10596466064453,0,negative,0
+GOOGL,2018-10-25,UPDATE: Volkswagen Said to be in Talks With Waymo About Partnering on Mobility Service in Europe,positive,54.727176666259766,53.743309020996094,0,positive,1
+GOOGL,2020-05-27,Stocks Soar Despite Pharma Giant CEO Questioning Vaccine Timelines,negative,70.43186950683594,70.33073425292969,0,positive,1
+GOOGL,2019-11-26,Google Fires Four Employee Activists For 'Data Security Breach',negative,65.11184692382812,65.06871795654297,0,negative,0
+GOOGL,2020-04-21,Shares of several technology companies are trading lower amid overall market weakness following a collapse in oil prices. Oil has been negatively impacted by excess supply and low demand amid the coronavirus pandemic.,negative,60.11117935180664,62.404727935791016,1,negative,0
+GOOGL,2019-03-26,Google Sees EU Copyright Directive As 'Improved' But Will Still Lead To Legal Uncertainty,positive,59.00432968139648,58.41767883300781,0,positive,1
+GOOGL,2019-04-29,Alphabet shares are trading lower after the company reported worse-than-expected Q1 sales results.,negative,64.27873992919922,59.45659255981445,0,negative,0
+GOOGL,2020-04-08,"Google Has Banned Zoom Video Communications Software From Employee Computers, Fearing Security Vulnerabilities",negative,59.85530090332031,59.83396911621094,0,negative,0
+GOOGL,2019-06-10,Trump Says EU Is Attacking US Companies,negative,53.694217681884766,53.60892105102539,0,negative,0
+GOOGL,2020-05-29,'Google Rescinds Offers to Thousands of Contract Workers' -NY Times,negative,71.08846282958984,71.15540313720703,1,negative,0
+GOOGL,2020-04-28,"Alphabet Q1 EPS $9.870 May Not Compare To $10.330 Estimate, Sales $41.160B Beat $40.380B Estimate",positive,61.12430953979492,66.55889129638672,1,positive,1
+GOOGL,2019-01-31,'Apple blocks Google from running its internal iOS apps' -The Verge,negative,55.83304214477539,55.47251892089844,0,negative,0
+GOOGL,2020-01-27,"Amazon Employees Publicly Condemn Company's Communications, Climate Policies",negative,70.99968719482422,71.93048858642578,1,negative,0
+GOOGL,2019-08-20,DXC Technology and Google Cloud Announce Global Partnership To 'Drive Innovation For Enterprises At Scale',positive,58.69141387939453,59.090614318847656,1,positive,1
+GOOGL,2019-08-08,"Chinese Cloud Services Rivalry Heats Up As Alibaba, Tencent Face Off",positive,59.81513595581055,58.95771408081055,0,positive,1
+GOOGL,2019-06-03,Apple Falls As Justice Department Given Jurisdiction For Possible Antitrust Probe,negative,51.511260986328125,52.29229736328125,1,negative,0
+GOOGL,2020-05-07,ViacomCBS And Google Announce Expanded Distribution Agreement,positive,67.90277862548828,68.64960479736328,1,positive,1
+GOOGL,2019-02-22,"Wedbush Downgrades Fitbit Ahead Of Q4 Print, Says Medtech Opportunity Priced Into Stock",negative,55.37035751342773,55.40854644775391,1,negative,0
+GOOGL,2018-08-10,Analysts React To Trade Desk's Blowout Quarter,negative,62.11214065551758,61.92022705078125,0,positive,1
+GOOGL,2020-04-16,S&P 500 Futures Up 3.2% After Hours; Many Other Stocks Moving Higher With Futures; Investors Reacting Favorably To White Phase Guidelines On Reopening Economy,positive,62.35612869262695,63.42578506469727,1,positive,1
+GOOGL,2019-06-20,'Google is giving up on competing with Apple's iPad as it ends its tablet business and cancels two unreleased devices' -Business Insider,negative,55.20374298095703,55.80725860595703,1,negative,0
+GOOGL,2018-11-16,"'Google Cloud CEO Diane Greene is out, to be replaced by former Oracle exec Thomas Kurian' -CNBC",negative,52.97565841674805,50.94989776611328,0,positive,1
+GOOGL,2020-02-03,"Alphabet Reports Q4 Operating Margin 20%, Down From 21% YoY",negative,73.52234649658203,71.6780776977539,0,negative,0
+GOOGL,2020-04-29,"Morgan Stanley Maintains Overweight on Alphabet, Raises Price Target to $1400",positive,66.55889129638672,66.78302764892578,1,positive,1
+GOOGL,2020-03-10,Shares of several technology companies are trading higher as markets look to rebound from Monday's selloff. The technology sector has been highly impacted by the coronavirus due to its China exposure and sensitivity to economic conditions.,negative,63.23585891723633,60.0486946105957,0,positive,1
+GOOGL,2019-09-09,Analysts React To Heavy Selling Pressure In The Tech Sector,negative,59.76950454711914,59.79082107543945,1,negative,0
+GOOGL,2019-11-18,How Google's Fitbit Acquisition Is Already Posing Some Problems,negative,65.4510498046875,65.09152221679688,0,negative,0
+GOOGL,2020-06-05,Congress Is Stepping Up Its Efforts To Kill Payday Loans,negative,71.41079711914062,71.80850219726562,1,negative,0
+GOOGL,2019-05-29,"Benzinga's Top Upgrades, Downgrades For May 29, 2019",negative,55.53798294067383,55.610877990722656,1,positive,1
+GOOGL,2020-04-15,Google CEO Tells Staff They Will Slow Hiring In 2020,negative,62.34968566894531,62.35612869262695,1,negative,0
+GOOGL,2019-12-03,"Benzinga's Top Upgrades, Downgrades For December 3, 2019",negative,64.20632934570312,65.40641784667969,1,positive,1
+GOOGL,2020-05-08,Tech Rally Helps Nasdaq Turn Positive for 2020: ETFs to Play,positive,68.64960479736328,69.60421752929688,1,positive,1
+GOOGL,2019-09-20,Google CEO Says Co to Invest â¬3B to Expand European Data Centers,positive,60.98793411254883,61.22845077514648,1,positive,1
+GOOGL,2018-10-24,Two US Senate Democrats Say Google+ Data Exposures Raise 'Serious Questions' About Whether Alphabet Inc. Violated 2011 FTC Consent Decree,negative,52.4227294921875,54.727176666259766,1,negative,0
+GOOGL,2020-03-17,Apple Hit With $1.2B Fine By French Antitrust Authorities,negative,55.44475173950195,54.11226272583008,0,negative,0
+GOOGL,2019-10-25,"BMO Capital Maintains Market Perform on Alphabet, Raises Price Target to $1,245",positive,62.69681167602539,63.920692443847656,1,positive,1
+GOOGL,2019-12-26,FAA Says It Expects All Drones Would Be In Compliance Within Three Years Of Finalizing Rule,positive,67.5650634765625,67.17678833007812,0,positive,1
+GOOGL,2019-12-23,"AFP Tweets: Apple told AFP that ToTok was removed from its App Store pending a review, while Google said it was taken down from the Play Store ""for a policy issue""",negative,66.9779281616211,66.67046356201172,0,positive,1
+GOOGL,2020-05-18,Solid Data-Center Demand to Aid NVIDIA (NVDA) Q1 Earnings,positive,68.69127655029297,68.15667724609375,0,positive,1
+GOOGL,2019-03-28,M&C Saatchi Backs Calls for Competition Watchdog Investigation of Facebook and Google,negative,58.13302993774414,58.36214065551758,1,positive,1
+GOOGL,2020-03-11,"Despite Volatility, FANG Continues to Prove Its Popularity",positive,60.0486946105957,55.12191390991211,0,positive,1
+GOOGL,2019-07-25,"Alphabet Q2 Adj. EPS $14.21 Beats $11.3 Estimate, Sales $38.944B Beat $38.17B Estimate",positive,56.331424713134766,61.75062942504883,1,positive,1
+GOOGL,2020-04-29,"A Peek Into The Markets: US Stock Futures Rise Ahead Of Earnings, Fed Decision",positive,66.55889129638672,66.78302764892578,1,positive,1
+GOOGL,2020-03-03,Google Cancels Annual Conference Due To Coronavirus,negative,66.33772277832031,68.51373291015625,1,negative,0
+GOOGL,2020-05-08,Zoom Video Shares Fall To Session Low On Volume Spike As Hearing 'Google Duo will soon let you make group calls in Chrome',negative,68.64960479736328,69.60421752929688,1,negative,0
+GOOGL,2020-04-22,Another Autonomous Trucking Startup Announces Layoffs,negative,62.404727935791016,63.03749084472656,1,negative,0
+GOOGL,2018-08-28,"Alphabet Shares Down Just Slightly Premarket After Pres. Trump Earlier Accused The Search Giant Of Being ""RIGGED"" Against Him And Others, Suppressing Conservatives, Adding: 'Will be addressed!'",negative,61.78236770629883,62.71416473388672,1,negative,0
+GOOGL,2019-02-04,From Alphabet Earnings Conference Call: Sees Capex Growth In 2019 To Moderate Quite Significantly,positive,56.60317611694336,57.12139129638672,1,negative,0
+GOOGL,2020-04-29,"UPDATE: Morgan Stanley Maintains Overweight On Alphabet, Raises Target To $1,400 Notes 'Ad declines are likely to be somewhat less severe than expected and GOOGL is focused on efficiency/innovation to emerge stronger post downturn'",positive,66.55889129638672,66.78302764892578,1,positive,1
+GOOGL,2019-10-31,Facebook Perseveres Against Pressures With Yet Another Strong And Better Than-Expected Quarter,positive,62.42406463623047,63.0910530090332,1,positive,1
+GOOGL,2020-04-22,"Wedbush Maintains Outperform on Alphabet, Lowers Price Target to $1375",negative,62.404727935791016,63.03749084472656,1,positive,1
+GOOGL,2020-02-07,"Google's Former Head of Pixel Smartphone Division, Mario Queiroz, has Left the Company",negative,73.34927368164062,74.81465911865234,1,positive,1
+GOOGL,2020-02-21,Fitbit Shares Plummet On Q4 Earnings Miss,negative,73.56497192382812,70.41104888916016,0,negative,0
+GOOGL,2019-02-05,Survey Hints At Strong Quarter For Spotify,positive,57.12139129638672,55.684268951416016,0,positive,1
+GOOGL,2019-07-30,"AMD Shares Spike 1.5%, Intel Shares Fall 0.8% As Hearing Lynx Equity Out With A Call Suggesting Google Cloud Could Switch From Intel To AMD Chips",negative,60.89669036865234,60.41070938110352,0,positive,1
+GOOGL,2019-05-22,'EU regulator launches probe into Google over data privacy' -CNBC,negative,57.31875991821289,56.79756927490234,0,negative,0
+INTC,2019-08-01,Top ETFs of July That Rose 10% or More,positive,43.13332748413086,42.41880798339844,0,positive,1
+INTC,2018-11-08,"TiVo's (TIVO) Reports Wider Loss in Q3, Revenues Decline Y/Y",negative,42.16183471679688,41.40449142456055,0,negative,0
+INTC,2019-08-23,Synopsys: Long-Term Growth Outlook Remains Intact,positive,39.4417724609375,39.96813583374024,1,positive,1
+INTC,2019-08-23,Apple: A Lost Year For iPhone,negative,39.4417724609375,39.96813583374024,1,negative,0
+INTC,2019-08-19,High-Quality Dividend Stocks,positive,41.43315887451172,40.880489349365234,0,positive,1
+INTC,2019-06-06,5 Stocks Boosting Book Value,positive,39.299259185791016,40.109642028808594,1,positive,1
+INTC,2019-03-05,Intel -1.4% on new security issue report,positive,46.49097442626953,45.8587532043457,0,negative,0
+INTC,2019-04-23,Hopes For Greater 5G Internet Speed Lift The Market Higher,positive,50.90797424316406,50.85601043701172,0,positive,1
+INTC,2019-05-09,Intel's weak forecast dings semis,negative,40.62376022338867,40.25778198242188,0,negative,0
+INTC,2020-04-22,"Dow Jones Futures: Coronavirus Stock Market Rally Powers Back; Apple, AMD, Tesla, Intel, Microsoft Near Buy Points, But Watch Out For This",positive,53.2747917175293,52.33517456054688,0,positive,1
+INTC,2019-04-25,Intel (INTC) Q1 Earnings and Revenues Beat Estimates,positive,49.894657135009766,45.40837860107422,0,positive,1
+INTC,2019-05-20,US Market Indexes Close With Losses Monday,negative,37.95732498168945,38.7415771484375,1,negative,0
+INTC,2019-12-04,Supreme Court skeptical of Intel in retirement fund case,negative,49.4147834777832,49.46770477294922,1,negative,0
+INTC,2020-03-24,Hopes of a Recovery Boosts Pre-markets,positive,46.44923400878906,45.43870162963867,0,positive,1
+INTC,2019-09-26,Semis dip on Huawei waiver report,negative,44.67026901245117,44.54745101928711,0,negative,0
+INTC,2020-04-20,"Dow Jones Today, Futures Skid As Oil Prices Collapse; Netflix and Coronavirus Stocks Co-Diagnostics, BioNTech Rise",negative,52.459285736083984,49.95952224731445,0,negative,0
+INTC,2019-11-25,Nvidia Poised to Benefit From Cloud Computing Rebound,positive,51.87582015991211,51.95521545410156,1,positive,1
+INTC,2018-11-14,Intel tech reduces bus injuries by 60%,positive,40.52664566040039,41.40449142456055,1,positive,1
+INTC,2019-07-12,"After Topping 27,000 Level, Dow Jones Scores Another All-Time High; Dow, CAT, Intel Lead The Way",positive,43.49931335449219,43.67359161376953,1,positive,1
+INTC,2020-03-17,"Dow Jones Recoups 1,049 Points As Trump Weighs $1 Tril In Coronavirus Stimulus",negative,44.3927116394043,42.20320892333984,0,positive,1
+INTC,2018-10-25,Intel Corporation 2018 Q3 - Results - Earnings Call Slides,negative,37.8956413269043,39.07586669921875,1,positive,1
+INTC,2020-01-15,The Race To 5G: $1 Billion Subsidy Could Propel 5G Stocks,positive,51.9904899597168,52.62560272216797,1,positive,1
+INTC,2018-12-18,Rejuvenated Intel Highlights Benefits Of Competition,positive,41.086055755615234,39.21851348876953,0,positive,1
+INTC,2019-04-09,Samsung increases 5G modem production,positive,47.911354064941406,48.28376388549805,1,positive,1
+INTC,2020-03-18,5 Semiconductor Stocks Set for Rebound Post Coronavirus Mayhem,negative,42.20320892333984,40.72286224365234,0,positive,1
+INTC,2020-03-23,"Dow Jones Dives To Pre-Election Lows Despite Fed Stimulus, No Coronavirus Aid Deal Yet",negative,43.94949722290039,46.44923400878906,1,negative,0
+INTC,2019-10-09,US Indexes Rebound Wednesday After â Days of Losses,positive,44.28427505493164,44.836952209472656,1,positive,1
+INTC,2018-12-12,Intel (INTC) Stock Looks Like a Strong Buy Heading into 2019,positive,41.163516998291016,41.55940246582031,1,positive,1
+INTC,2019-01-30,Seagate (STX) to Report Q2 Earnings: Disappointment in Store?,negative,40.91393661499024,40.55247497558594,0,negative,0
+INTC,2019-01-25,"Stocks Hold Gains As Government Shutdown Ends, But Intel Drags Dow",negative,40.48362731933594,40.19961929321289,0,negative,0
+INTC,2019-09-24,Has Intel (INTC) Outpaced Other Computer and Technology Stocks This Year?,positive,43.70528030395508,44.75799560546875,1,positive,1
+INTC,2019-01-07,Asian Markets Gain On Trade Talk Optimism (Wall Street Breakfast Podcast),positive,40.82786560058594,41.086055755615234,1,positive,1
+INTC,2019-05-09,Dow Jones Weighed Down By Intel Stock; Roku Surges On Earnings,negative,40.62376022338867,40.25778198242188,0,negative,0
+INTC,2019-09-05,"Dow Jones Jumps On U.S.-China News, As Indexes Look To Claim Key Level",positive,43.95091247558594,44.67026901245117,1,positive,1
+INTC,2019-10-25,"Analysts boost Intel after beats, upside outlook",positive,49.530303955078125,49.793487548828125,1,positive,1
+INTC,2019-05-29,Dow Jones Leads Drop In Stocks As These Stock Market Technicals Flash Warnings,negative,38.541160583496094,38.97685241699219,1,negative,0
+INTC,2019-10-21,"Dow Jones Today: Futures Get Lift From Brexit, Chips; Reported Opioids Case Settlement",positive,45.73176193237305,45.62648391723633,0,positive,1
+INTC,2019-05-30,Intel Sees Project Funding On Horizon As Semiconductor Sector Gets Hammered,positive,38.97685241699219,38.37559127807617,0,positive,1
+INTC,2019-04-05,Chip Stocks Are on a Roll: 5 Solid Buys,positive,48.15385055541992,48.22313690185547,1,positive,1
+INTC,2020-04-24,Stocks Will Try To Bounce Back On April 24,positive,52.53018569946289,52.71633529663086,1,positive,1
+INTC,2019-06-27,Latest bill to settle C-band issue faces struggle - analyst,negative,41.355712890625,41.71298599243164,1,negative,0
+INTC,2019-07-22,US Large Cap Indexes Close Higher to Start the Week on Monday,positive,44.745384216308594,45.09394454956055,1,positive,1
+INTC,2019-12-04,Amazon (AMZN) to Release New Server Chip: Will it Hurt Intel?,negative,49.4147834777832,49.46770477294922,1,positive,1
+INTC,2019-05-20,Nasdaq Dives As Top Chip And Tech Stocks Get Slammed,negative,37.95732498168945,38.7415771484375,1,negative,0
+INTC,2018-10-26,Correction Deepens As Stocks Crumble On Amazon's Revenue Miss,negative,39.07586669921875,38.82785034179688,0,negative,0
+INTC,2018-10-25,"Intel beats by $0.25, beats on revenue",positive,37.8956413269043,39.07586669921875,1,positive,1
+INTC,2019-01-23,Dow Jones Futures: These 3 Stocks Are Notable Earnings Movers â And Bullish For The Market Rally,positive,41.25818634033203,42.82451248168945,1,positive,1
+INTC,2019-04-17,Stock Futures Edge Up: Chip Stocks Set To Rally,positive,50.71743774414063,50.65680313110352,0,positive,1
+INTC,2019-02-12,"Bulls Step Up Their Game, As Shutdown Optimism Lifts Stock Market",positive,43.31248092651367,43.71087646484375,1,positive,1
+INTC,2019-01-24,Nasdaq Rallies In Stock Market Today On These Big Earnings Beats,positive,42.82451248168945,40.48362731933594,0,positive,1
+INTC,2019-08-19,Trump casts doubt on Huawei reprieve,positive,41.43315887451172,40.880489349365234,0,negative,0
+INTC,2019-04-17,"Intel Stock Leads Dow Jones Today, But Software Stocks Hit By More Selling",negative,50.71743774414063,50.65680313110352,0,negative,0
+INTC,2020-02-11,"Dow Pares Gains On FTC Probe Of Big-Cap Techs, But Nasdaq, S&P 500 At New High",positive,59.754642486572266,59.7989616394043,1,positive,1
+INTC,2019-06-13,Please Don't Buy The Dip In Nvidia Or Other Chip Stocks,negative,40.69347381591797,40.249061584472656,0,negative,0
+INTC,2019-01-24,"Semiconductor Stocks Race Higher, But Dow, S&P 500 Lag",negative,42.82451248168945,40.48362731933594,0,positive,1
+INTC,2019-12-23,AMD Stock Gaps Up To 19-Year High; Intel Stock Breaks Out,negative,52.24629974365234,52.40507888793945,1,positive,1
+INTC,2019-06-14,Chipmakers stumble after Broadcom warning,negative,40.249061584472656,40.19677734375,0,negative,0
+INTC,2019-09-30,Stocks Rebound On September 30 But Still Fail To Get Over Resistance,negative,45.20539474487305,44.529903411865234,0,negative,0
+INTC,2019-06-26,Dow Jones Trims Gains Amid New Hopes For U.S.-China Trade Deal,positive,41.99181365966797,41.355712890625,0,positive,1
+INTC,2019-05-28,Intel slides as analysts praise AMD's roadmap,negative,37.96604537963867,38.541160583496094,1,negative,0
+INTC,2020-01-24,"Intel's (INTC) Q4 Earnings Beat, DCG Growth Aids Revenues",positive,60.39681625366211,57.94461441040039,0,positive,1
+INTC,2020-01-24,"Stocks Are Higher On January 24, A Make-Or-Break Point",positive,60.39681625366211,57.94461441040039,0,positive,1
+INTC,2019-11-21,Stock Market Lower Amid Latest China Trade News; Tesla In Buy Zone Ahead Of Cybertruck Debut,negative,51.35539245605469,50.81731033325195,0,positive,1
+INTC,2019-10-01,AMD's Desktop CPUs to Aid Enterprises Boost Productivity,positive,44.529903411865234,43.32805633544922,0,positive,1
+INTC,2019-01-04,Stock Market Surges On Jobs Report; FANG Stock To Retake Key Level,positive,40.63853454589844,40.82786560058594,1,positive,1
+INTC,2020-04-16,Dow Jones Sharply Lower After New York To Remain Shut Down To Fight Coronavirus,negative,53.88643646240234,53.5052604675293,0,negative,0
+INTC,2019-11-14,Top 6 Dow Stocks That Have Outpaced Index's Year-to-Date Gain,positive,50.99373245239258,51.12604141235352,1,positive,1
+INTC,2019-05-10,"Dow Jones Weighed Down By Apple, Intel; Tough Start For Uber IPO",negative,40.25778198242188,39.00298690795898,0,negative,0
+INTC,2019-01-23,Semi stocks move after earnings trio,negative,41.25818634033203,42.82451248168945,1,positive,1
+INTC,2018-11-02,"Pitney Bowes (PBI) Q3 Earnings Top Estimates, Revenues Up Y/Y",positive,40.29029846191406,41.025821685791016,1,positive,1
+INTC,2018-12-10,Apple suppliers dip on China's iPhone ban,negative,40.62993240356445,40.77622604370117,1,negative,0
+INTC,2019-11-15,"5 Stocks That Boosted Dow Above â8,â¦â¦â¦",positive,51.12604141235352,51.38185119628906,1,positive,1
+INTC,2019-10-21,Earnings Extravaganza: This Week Brings Nearly 25% Of S&P 500 Company Reports,positive,45.73176193237305,45.62648391723633,0,positive,1
+INTC,2018-12-26,Intel (INTC) to Expand Production Operations in Israel,positive,39.75209426879883,39.89838790893555,1,positive,1
+INTC,2019-04-25,"Tech Gains Thursday, Dow Closes Lower After 'M Earnings",negative,49.894657135009766,45.40837860107422,0,negative,0
+INTC,2019-03-14,Intel (INTC) Dips More Than Broader Markets: What You Should Know,negative,46.283111572265625,47.05393981933594,1,negative,0
+INTC,2019-09-23,' Large-Cap Stocks With High Earnings Yields,positive,44.6527214050293,43.70528030395508,0,positive,1
+INTC,2019-08-05,"Dow Jones Plunges, As Trade War Intensifies; Apple Stock Hits Sell Signal",negative,40.9287338256836,41.19630813598633,1,negative,0
+INTC,2018-11-19,"Microsoft to Buy XOXCO, Expand Conversational AI Portfolio",positive,41.30982208251953,40.78483200073242,0,positive,1
+INTC,2018-11-30,US Market Indexes Gain for the Week,positive,42.43723678588867,43.1429443359375,1,positive,1
+INTC,2019-11-05,"Dow Jones Today: Futures Rise On China Trade Optimism, Earnings; Xerox Strikes Fujifilm Deal",positive,50.48652648925781,50.80849456787109,1,positive,1
+INTC,2020-03-26,Will Apple (AAPL) Delay 5G iPhone Launch Due to Coronavirus Mess?,negative,49.23264694213867,46.42264175415039,0,negative,0
+INTC,2019-12-10,Intel's 7.5% Total Yield Will Push The Stock Higher,positive,49.91757583618164,50.34097671508789,1,positive,1
+INTC,2019-01-24,"Stock Market News: Xilinx, Lam Research Lead Powerful Chip Rally",positive,42.82451248168945,40.48362731933594,0,positive,1
+INTC,2019-07-19,Korea IT H/W: TSMC's Q2 2019 HPC Sales Up 23% QoQ,positive,43.804290771484375,44.745384216308594,1,positive,1
+INTC,2020-03-09,4 High-Quality Tech Companies as Coronavirus Fears Smash Markets Worldwide,negative,45.07526016235352,47.84981155395508,1,negative,0
+INTC,2020-03-23,3 Safe Haven Tech Stocks to Buy as Coronavirus Market Uncertainty Spreads,positive,43.94949722290039,46.44923400878906,1,positive,1
+INTC,2019-09-11,Citi sees Q4 risks for Intel,negative,46.31075668334961,46.50374221801758,1,negative,0
+INTC,2020-02-07,"US Indexes Lower Friday, but Higher for the Week",negative,58.52249526977539,58.850467681884766,1,positive,1
+INTC,2020-01-10,"Dow Jones Today, Futures Gains Modest After Jobs Report; Chip Stocks Buzzing, Intuitive Surgical Soars On Guidance",positive,51.9904899597168,52.56386184692383,1,positive,1
+INTC,2018-11-01,"Qorvo (QRVO) Q2 Earnings & Revenues Top Estimates, Up Y/Y",positive,41.239627838134766,40.29029846191406,0,positive,1
+INTC,2019-11-27,"Melt-Up Alert: Amazon Rises, Intel Hurts Dell, HP But Helps AMD, And Deere Likely Phase One Winner",negative,51.61118698120117,51.20542907714844,0,positive,1
+INTC,2018-11-21,Why Is Intel Up And Semiconductors Down?,negative,40.47501373291016,40.05331039428711,0,positive,1
+INTC,2018-10-30,S&P Closes In Correction Territory (Wall Street Breakfast Podcast),negative,40.84621047973633,40.09360504150391,0,negative,0
+INTC,2019-08-01,"AMD: Solid Earnings And Credible Google Rumors, Time To Buy",positive,43.13332748413086,42.41880798339844,0,positive,1
+INTC,2019-10-29,"ON Semiconductor (ON) Q3 Earnings Miss, Sales Beat Estimates",negative,49.42504501342773,49.65312957763672,1,positive,1
+INTC,2019-05-09,The Stock Market Tested A Very Important Level And Rebounded Sharply,positive,40.62376022338867,40.25778198242188,0,positive,1
+INTC,2020-01-24,Stock Market Dives After CDC Confirms Second U.S. Case Of Deadly China Virus,negative,60.39681625366211,57.94461441040039,0,negative,0
+INTC,2019-07-25,"Intel +6% on Apple's $1B purchase, raised FY view",positive,45.45119857788086,44.95450973510742,0,positive,1
+INTC,2020-03-16,5 Tech Companies Boosting Book Value,positive,39.54391479492188,44.3927116394043,1,positive,1
+JPM,2019-10-14,J.P. Morgan Brings New Capabilities to Target Date CompassÂ© Program,positive,98.24787139892578,101.20922088623048,1,positive,1
+JPM,2019-07-15,"Citigroup (C) Beats Easily, Empire State Swings to Positive",positive,95.33277893066406,96.35389709472656,1,positive,1
+JPM,2020-04-17,"Regions (RF) Q1 Earnings Miss, Provisions Up on Coronavirus Woes",negative,81.65789794921875,78.68087768554688,0,negative,0
+JPM,2019-07-16,JPMorgan: Likely To Generate 10% Annual Total Returns Over The Next Decade,positive,96.35389709472656,95.4081039428711,0,positive,1
+JPM,2019-04-08,Road To Financial Independence: New Dividend Record In March,positive,87.80599975585938,87.15772247314453,0,positive,1
+JPM,2018-11-07,Bank stocks do fine in day after midterms,negative,91.20706939697266,91.94339752197266,1,positive,1
+JPM,2019-09-09,Have Financials Gone Too Far Too Fast?,negative,96.58826446533205,97.8186264038086,1,negative,0
+JPM,2019-01-18,U.S. Bancorp Shares Still Stuck,negative,86.26496124267578,84.90403747558594,0,negative,0
+JPM,2019-04-08,BofA Ramps Up Expansion & Modernization of Financial Centers,positive,87.80599975585938,87.15772247314453,0,positive,1
+JPM,2019-04-15,"Goldman Sachs, Citigroup Beat Earnings Views But Revenue Misses",positive,91.37142944335938,92.33553314208984,1,positive,1
+JPM,2018-12-13,Why JPMorgan And Bank Of America Will Likely Double The Market's Returns In The Coming Years,positive,82.73107147216797,82.05200958251953,0,positive,1
+JPM,2020-02-21,"United Airlines, Chase and Visa Announce Multi-Year Extension of United MileagePlus Credit Card ...",positive,115.3173370361328,112.21807098388672,0,positive,1
+JPM,2019-02-27,The Strong Look To Get Stronger As JPMorgan Continues To Target Growth,positive,86.73506164550781,86.07524108886719,0,positive,1
+JPM,2020-04-03,Atlassian Stock Emerges As Big Winner In Software Sector,positive,72.10911560058594,76.75051879882812,1,positive,1
+JPM,2018-10-12,"Stock Futures Jump: Netflix Leads FANG Bounce, Big Banks Report",positive,87.5008544921875,87.00177001953125,0,positive,1
+JPM,2019-05-01,Wells Fargo Looks To Be In A Good Position Despite Current Mortgage Environment,positive,95.70978546142578,95.9175796508789,1,positive,1
+JPM,2019-04-15,S&P Approaches New Highs After Crossing Above 2900,positive,91.37142944335938,92.33553314208984,1,positive,1
+JPM,2019-04-16,Mixed Start to Q1 Earnings Season,negative,92.33553314208984,94.99502563476562,1,positive,1
+JPM,2018-10-15,Tech Stocks Today: Netflix Pressured Ahead Of Q3 Results,negative,87.00177001953125,88.86717224121094,1,negative,0
+JPM,2018-10-08,Q3 Earnings Season Starts Amid A Sell-Off In China,negative,94.3487548828125,93.69422912597656,0,negative,0
+JPM,2020-04-08,Wells Fargo Could Catch a Break as Asset Cap Is Lifted,negative,80.90291595458984,88.16102600097656,1,positive,1
+JPM,2020-01-22,"Comerica (CMA) Q4 Earnings Beat Estimates, Revenues Down Y/Y (Revised)",negative,116.05606842041016,115.93719482421876,0,positive,1
+JPM,2019-12-12,US Indexes Close Higher Thursday With China Trade Developments,positive,116.4462890625,115.4254379272461,0,positive,1
+JPM,2019-10-09,Fidelity Zero Total Market ETF Is Slightly Overvalued,positive,95.02497100830078,96.35799407958984,1,negative,0
+JPM,2019-04-01,Dow Jumps 330 Points To Five-Month High On Global Stock Rally,positive,86.30619812011719,86.71856689453125,1,positive,1
+JPM,2020-04-27,"Dow Jones Jumps 250 Points, Led By Disney, JPMorgan; Nasdaq 100 Yields Two Bullish Breakouts",positive,81.17747497558594,81.75227355957031,1,positive,1
+JPM,2019-10-11,Will Q3 Earnings Drive Dow ETF Higher?,positive,97.98632049560548,98.24787139892578,1,positive,1
+JPM,2019-10-04,US Indexes Close Higher Friday After Volatile Week,positive,96.70391082763672,96.49300384521484,0,positive,1
+JPM,2019-03-25,Fifth Third to Expand Digital Capabilities With More Hiring,positive,81.59661865234375,82.41316986083984,1,positive,1
+JPM,2019-01-14,"Blue Chips Pare Losses; JPMorgan, Goldman Sachs Lead Dow Jones",negative,83.25446319580078,83.86480712890625,1,positive,1
+JPM,2020-05-13,UK Economy Sinks; Uber Looks To Take A Bite Out Of Rival GrubHub.,negative,72.09194946289062,75.08613586425781,1,negative,0
+JPM,2019-10-08,US Indexes Close Lower Tuesday With New China Trade Tensions,negative,94.34156799316406,95.02497100830078,1,negative,0
+JPM,2020-03-23,Capital One Financial CEO Fairbank's 2019 Pay Up by 12.9%,positive,67.1050033569336,75.08660125732422,1,positive,1
+JPM,2019-04-08,S&P 500 Heads Into Earnings Season Up Roughly 15%; What Could Go Wrong?,negative,87.80599975585938,87.15772247314453,0,positive,1
+JPM,2019-08-27,Financials wilt as Treasurys rally,negative,88.50296783447266,89.39016723632812,1,negative,0
+JPM,2020-02-28,Stocks Speed Into Correction with a More Than 4% Plunge,positive,98.58989715576172,103.1835708618164,1,negative,0
+JPM,2019-07-08,Deutsche Bank Shares Slide After Unveiling Extensive Restructuring Plan,negative,94.470703125,94.8724365234375,1,negative,0
+JPM,2018-12-24,Stock Futures Stumble: This Bank Stock Leads Dow Jones Declines,negative,75.38408660888672,78.50940704345703,1,negative,0
+JPM,2019-04-08,S&P 500 Heads Into Earnings Season Up Roughly 15%; What Could Go Wrong?,negative,87.80599975585938,87.15772247314453,0,positive,1
+JPM,2020-03-06,U.S. Stocks Unfazed By Bullish Job Growth; JPMorgan Tanks In Dow Jones As Bond Yields Plunge Again,negative,91.77157592773438,79.34064483642578,0,negative,0
+JPM,2019-07-24,Wells Fargo Undervalued With A 15% Shareholder Yield,positive,97.78515625,96.84770965576172,0,positive,1
+JPM,2018-11-08,BofA (BAC) Seeks to Strengthen Investment Banking Division,positive,91.94339752197266,91.0516128540039,0,positive,1
+JPM,2019-02-11,Sector Allocation Strategy: Energy Is Revving Up For A Run,positive,83.2049789428711,84.62360382080078,1,positive,1
+JPM,2019-01-25,Banks ease up from selling new bonds,positive,85.27518463134766,85.67932891845703,1,positive,1
+JPM,2019-07-08,Deutsche Bank (DB) Restructuring Plan Sends Shares Plummeting,negative,94.470703125,94.8724365234375,1,negative,0
+JPM,2019-12-05,Major Regional Bank Stocks Outlook Rosy on Decent Loan Rise,positive,112.2615966796875,113.93207550048828,1,positive,1
+JPM,2019-10-01,Dow Jones Turns Lower On Weak ISM Data; Online Brokers Plunge On Schwab News,negative,96.71379852294922,94.78874206542967,0,negative,0
+JPM,2019-12-03,Tariff fears sink financial stocks; 10-year Treasury yield tumbles 14 bps,negative,109.4942626953125,111.65411376953124,1,negative,0
+JPM,2019-04-18,"Regions Financial's (RF) Q1 Earnings Improve Y/Y, Revenues Up",positive,94.29690551757812,94.41324615478516,1,positive,1
+JPM,2019-10-08,JPMorgan Chase awards grant to Delaware Prosperity Partnership to advance an inclusive tech ...,positive,94.34156799316406,95.02497100830078,1,positive,1
+JPM,2019-04-15,"US Market Indexes Close Lower Monday, Goldman and Citi Report Earnings",negative,91.37142944335938,92.33553314208984,1,negative,0
+JPM,2020-04-15,Citigroup (C) Q1 Earnings Beat Estimates on Revenue Strength,positive,77.89159393310547,74.92312622070312,0,positive,1
+JPM,2019-07-29,Banks face U.K. class action over forex-rigging,negative,96.96489715576172,96.74727630615234,0,negative,0
+JPM,2019-10-25,"Bank Stock Roundup: Q3 Earnings in Full Swing; RF, FITB, COF Post Decent Numbers",positive,106.3304214477539,106.73538208007812,1,positive,1
+JPM,2019-07-08,The Fed Is Now Bleeding The Patient,negative,94.470703125,94.8724365234375,1,negative,0
+JPM,2019-07-16,"JPMorgan Q2 reflects strong consumer, weaker i-banking, trading revenue",negative,96.35389709472656,95.4081039428711,0,positive,1
+JPM,2019-08-26,Trade War Escalation Likely to Hurt Bank Stocks' Prospects,negative,89.44876098632812,88.50296783447266,0,negative,0
+JPM,2019-04-17,"Citigroup Making Slow Progress, Which Is Still Better Than What's Priced In",negative,94.99502563476562,94.29690551757812,0,positive,1
+JPM,2020-02-27,Is Fidelity High Dividend ETF (FDVV) a Strong ETF Right Now?,positive,103.05621337890624,98.58989715576172,0,positive,1
+JPM,2019-11-14,Walgreens Boots Rallies on KKR's Bid but Market View Mixed,positive,108.49872589111328,109.28337097167967,1,positive,1
+JPM,2020-04-13,4 Winning Bank Stocks for Coronavirus-Marred Q1 Earnings,positive,84.2402572631836,81.93244171142578,0,positive,1
+JPM,2019-07-16,Citigroup: Strong Yield Support,positive,96.35389709472656,95.4081039428711,0,positive,1
+JPM,2019-08-21,Another ex-JPMorgan trader pleads guilty to 'spoofing',negative,90.0681381225586,90.9971923828125,1,negative,0
+JPM,2019-10-14,"Phenomix Sciences, Care + Wear and Civic Eagle Win Meda Million Dollar Challenge",positive,98.24787139892578,101.20922088623048,1,positive,1
+JPM,2019-04-09,"Stock Futures Edge Lower; Apple, Disney Lead Dow Jones",negative,87.15772247314453,87.5483627319336,1,positive,1
+JPM,2019-11-05,5 Stocks Driving Three Major Indexes to Record Highs,positive,108.92057037353516,109.08930206298828,1,positive,1
+JPM,2019-05-30,Global Payments Scales Up Yet Again,positive,88.97784423828125,88.06365203857422,0,positive,1
+JPM,2020-01-17,Week In Review: Stocks Soar To Fresh Record Highs,positive,117.34668731689452,116.19192504882812,0,positive,1
+JPM,2018-10-12,"Regional bank stock dip as PNC's Q3 loans, deposits disappoint",negative,87.5008544921875,87.00177001953125,0,negative,0
+JPM,2019-08-19,"Dow Jones Today: JPMorgan, Goldman Sachs Follow Bond Yields Higher; Apple Also Up",positive,90.97207641601562,89.81703186035156,0,positive,1
+JPM,2018-09-19,"Blue Chips Rise; JPMorgan, Goldman Lead Dow; Oil Stocks Strong Again",positive,95.56128692626952,96.38186645507812,1,positive,1
+JPM,2019-10-09,Portfolio-Update Q3 2019: 4 New Holdings For Greater Diversification And Quality,positive,95.02497100830078,96.35799407958984,1,positive,1
+JPM,2020-02-25,Warren Buffett Continues to Curb Long-Held Wells Fargo Stake,negative,107.20836639404295,107.53101348876952,1,positive,1
+JPM,2018-10-17,Building A Dividend Growth Portfolio From Scratch: 15 'A' Rated Or Better Fairly Valued Opportunities,positive,89.85712432861328,88.43356323242188,0,positive,1
+JPM,2019-04-12,"Dow 30 Stock Roundup: Procter & Gamble Hikes Dividend, Boeing Q1 Commercial Deliveries Fall",negative,92.42692565917967,91.37142944335938,0,negative,0
+JPM,2019-12-02,Deutsche Bank (DB) Under DoJ Probe Over Danske Bank Scandal,negative,110.9201202392578,109.4942626953125,0,negative,0
+JPM,2020-04-13,U.S. Corporate Bonds (April 13-17): Market Braces For FIG Earnings,positive,84.2402572631836,81.93244171142578,0,positive,1
+JPM,2019-04-08,"HSBC: Well Positioned In Asia, But Still Not A Buy",positive,87.80599975585938,87.15772247314453,0,positive,1
+JPM,2019-12-05,US Indexes End Slightly Higher Thursday,positive,112.2615966796875,113.93207550048828,1,positive,1
+JPM,2018-10-10,"Dow Futures Edge Higher, Helped By McDonald's Upgrade",positive,91.19889831542967,88.46624755859375,0,positive,1
+JPM,2019-10-14,Dow Jones Futures: Snoozing Stock Market To Get Big Jolt As 4 Dow Giants Report Early Tuesday,positive,98.24787139892578,101.20922088623048,1,positive,1
+JPM,2018-10-11,"My Oh My, Has Fixed Income Really Died?",negative,88.46624755859375,87.5008544921875,0,negative,0
+JPM,2019-07-16,Is the Bar Too Low for Q2 Earnings?,negative,96.35389709472656,95.4081039428711,0,positive,1
+JPM,2019-01-14,Bank investors mull Citi's lame FICC results,negative,83.25446319580078,83.86480712890625,1,negative,0
+JPM,2019-07-18,Morgan Stanley (MS) Beats on Q2 Earnings Amid Trading Woes,positive,95.9772491455078,95.03146362304688,0,positive,1
+JPM,2018-10-10,JPMorgan: Will It Manage To Impress Again?,positive,91.19889831542967,88.46624755859375,0,positive,1
+JPM,2019-01-16,"Microsoft, WBA Deal to Break AMZN, GOOGL Healthcare Dreams",positive,84.5411376953125,84.88752746582031,1,positive,1
+JPM,2019-01-31,"Facebook leads surging Nasdaq, while banks stumble",positive,85.36590576171875,85.67932891845703,1,positive,1
+JPM,2018-12-06,Nasdaq Rallies To A Gain After A Wild Ride In The Stock Market,positive,86.0609130859375,84.50642395019531,0,positive,1
+JPM,2020-03-31,US Indexes Post Losses of Over ââ¦% for March,negative,76.44517517089844,71.6307373046875,0,negative,0
+JPM,2018-12-04,"Yield Curve Inverts, Dow Jones Tumbles; What's Going On?",negative,87.7299575805664,86.0609130859375,0,negative,0
+JPM,2019-06-11,Beyond Meat (BYND) Declines After Extraordinary Debut,negative,91.98644256591795,90.81459045410156,0,negative,0
+JPM,2019-11-27,"FDIC-Insured Banks' Q3 Earnings Disappoint, Costs Escalate",negative,111.41788482666016,111.16478729248048,0,negative,0
+JPM,2018-11-20,Well Known Facts Can Hurt You,negative,88.72805786132812,88.06538391113281,0,negative,0
+JPM,2018-12-04,Banks get hammered by sliding Treasury yields,negative,87.7299575805664,86.0609130859375,0,negative,0
+JPM,2020-03-10,JPMorgan (JPM) to Cut 140 Switzerland Jobs to Reduce Costs,negative,85.50515747070312,81.4803695678711,0,negative,0
+JPM,2019-09-13,US Indexes Close Mostly Lower on Friday,negative,100.6309051513672,99.73532104492188,0,negative,0
+JPM,2018-10-26,AMJ: Play MLP Growth With This Solid ETN,positive,84.61280059814453,85.78274536132812,1,positive,1
+JPM,2018-10-01,Banks climb after Goldman analyst sees promising Q3 reports ahead,positive,92.21398162841795,92.59581756591795,1,positive,1
+JPM,2018-10-08,"Road To Financial Independence: Best September Ever, Investing Into Technology Stocks Amid Mounting Trade Woes",positive,94.3487548828125,93.69422912597656,0,positive,1
+NFLX,2018-07-16,UPDATE: Netflix Says Forex Benefit Was Smaller Than Expected Due To Strong Dollar; It Will Move Some Operating Costs To Foreign Currencies To 'Provide a little more natural hedging' Against Forex Effects,positive,40.04800033569336,37.948001861572266,0,positive,1
+NFLX,2019-06-03,"UBS: Despite Regulatory Risk, Alphabet Is A Buy",positive,33.66299819946289,35.34000015258789,1,positive,1
+NFLX,2019-01-18,"UPDATE: Wedbush Expects Netflix 'content spending to trigger substantial cash burn for many years; notwithstanding four Netflix price increases in the last five years, cash burn continues to grow'",positive,33.90999984741211,32.51599884033203,0,negative,0
+NFLX,2018-07-16,"Benzinga's Top Upgrades, Downgrades For July 16, 2018",negative,40.04800033569336,37.948001861572266,0,positive,1
+NFLX,2020-04-23,Netflix shares are trading higher. The company on Tuesday reported Q1 results. Strength potentially related to increased interest in streaming services amid the coronavirus pandemic.,positive,42.66999816894531,42.499000549316406,0,positive,1
+NFLX,2019-10-17,Huber Research Downgrades Netflix to Underweight,negative,29.334999084472656,27.530000686645508,0,negative,0
+NFLX,2019-10-17,"UPDATE: Bank Of America Reiterates Buy On Netflix, Lowers Target To $426 As Firm Notes 'We see Netflix's results providing relief to investors, as international subs beat and 4Q sub guidance looks conservative'",positive,29.334999084472656,27.530000686645508,0,positive,1
+NFLX,2019-10-03,Italian Broadcaster Mediaset Will Partner With Netflix To Produce Movies In Italy,positive,26.815000534057617,27.27899932861328,1,positive,1
+NFLX,2019-12-18,"Netflix shares are trading higher. A Bank of America survey showed decreased user cancellation intention, suggesting limited Disney+ impact. Analysts said they are encouraged that most Disney+ users do not see the platform as a replacement to Netflix.",negative,32.08000183105469,33.22200012207031,1,positive,1
+NFLX,2020-02-26,"Netflix shares are trading higher. Movement appears market related, as equities start to rebound from recent selloffs.",positive,37.92399978637695,37.17100143432617,0,positive,1
+NFLX,2020-02-24,Shares of several communication and media companies are trading lower amid continued spread of coronavirus including notable upticks in Iran and Italy. NOTE: The virus has raised fear of a global economic slowdown.,negative,36.869998931884766,36.00899887084961,0,negative,0
+NFLX,2018-07-17,"Stifel Still Likes Netflix's Long-Term Outlook, Upgrades Stock To Buy",positive,37.948001861572266,37.51300048828125,0,positive,1
+NFLX,2019-03-26,Bank Of America Thinks Netflix Will Be Just Fine Following Apple TV+ Entrance,positive,35.99700164794922,35.33700180053711,0,positive,1
+NFLX,2019-11-25,Wells Fargo Downgrades Netflix On Spending Concerns,negative,31.55500030517578,31.249000549316406,0,negative,0
+NFLX,2019-09-24,"Benzinga's Top Upgrades, Downgrades For September 24, 2019",negative,25.458999633789062,26.475000381469727,1,positive,1
+NFLX,2018-02-23,Economic Times Reports 'India a bigger market for paid content than China: Netflix CEO Reed Hastings',positive,28.593000411987305,29.416000366210938,1,positive,1
+NFLX,2018-12-20,Netflix shares are trading down 4.3% after Buckingham Research lowered the price target from $406 to $382.,negative,26.058000564575195,24.638999938964844,0,negative,0
+NFLX,2018-07-12,Wall Street Sees A Bounce After Trade-Driven Losses,positive,41.34999847412109,39.58000183105469,0,positive,1
+NFLX,2018-01-02,A Disruptive Tech ETF Debuts,negative,20.10700035095215,20.5049991607666,1,positive,1
+NFLX,2020-03-23,"UPDATE: Baird Upgrades Netflix to Outperform, Raises Price Target to $415 As Firm Believes 'the lack of live sports, even if short-lived, coupled with growing consumer economic pressures, could accelerate video cord-cutting.'",positive,36.027000427246094,35.73199844360352,0,positive,1
+NFLX,2019-10-17,"Wedbush Maintains Underperform, $188 Target On Netflix Notes 'Denial Is a River in Egypt' As Firm Notes Co. 'faces a steep uphill climb to replace the content it is slated to lose over the next two years'",negative,29.334999084472656,27.530000686645508,0,negative,0
+NFLX,2019-05-15,"13F From Soros Shows New Stakes In Altice USA, Netflix, Microsoft, Liquidates Position In Philip Morris Int'l.",positive,35.499000549316406,35.930999755859375,1,positive,1
+NFLX,2020-01-06,"Netflix, Other Streaming Platforms Disappoint At Golden Globes",negative,33.58300018310547,33.07500076293945,0,negative,0
+NFLX,2018-10-29,"The Latest Tech Wreck Sends Markets Lower; S&P 500, Nasdaq Close In Correction Territory",negative,28.483999252319336,28.58099937438965,1,negative,0
+NFLX,2019-01-15,Netflix shares are trading higher amid rumors the company is increasing its subscription prices.,positive,35.4640007019043,35.138999938964844,0,positive,1
+NFLX,2018-10-29,Snap Shares Up ~2% Mon. Morning; Weekend Article From Techcrunch: 'Should cash-strapped Snapchat sell out? To Netflix?',positive,28.483999252319336,28.58099937438965,1,negative,0
+NFLX,2020-04-30,Netflix shares are trading higher despite overall market weakness. Strength potentially related to increased interest in streaming amid theater closures as a result of the coronavirus pandemic.,positive,41.98500061035156,41.527000427246094,0,positive,1
+NFLX,2018-01-22,"UPDATE: Netflix Reported Q4 US Streaming Net Additions 1.98M Users, Int'l. Streaming Net Adds 6.36M",positive,22.757999420166016,25.02899932861328,1,positive,1
+NFLX,2020-04-21,Netflix Sees Q2 EPS $1.81 vs $1.54 Est.,negative,43.382999420166016,42.141998291015625,0,positive,1
+NFLX,2019-07-18,"Credit Suisse Reiterates Outperform on Netflix, Lowers Price Target to $440",negative,32.520999908447266,31.51000022888184,0,positive,1
+NFLX,2018-11-20,"Tech Shares, Retailer Earnings Roil Markets In Continuing Sell-Off",negative,26.697999954223636,26.21299934387207,0,negative,0
+NFLX,2020-02-11,"Under Armour Gets Torn Up As Earnings Disappoint, But Coronavirus Fears Retreat Slightly",negative,37.36899948120117,38.0009994506836,1,negative,0
+NFLX,2018-04-17,"Wedbush Maintains Underperform on Netflix, Raises Price Target to $125.00",positive,33.60599899291992,33.45199966430664,0,positive,1
+NFLX,2019-12-02,Netflix shares are trading lower in sympathy with the overall market after China retaliated on the U.S. after President Trump signed a bill supporting HK protestors. The market also fell on worse-than-expected manufacturing data.,negative,30.999000549316406,30.61599922180176,0,negative,0
+NFLX,2019-12-19,"UPDATE: Pivotal Research On Netflix Notes 'For 4Q, we are forecasting in-line +600K net new U.S. subscriber additions and +8M international net new subscriber additions, nicely ahead of +7M guidance'",positive,33.22200012207031,33.689998626708984,1,positive,1
+NFLX,2018-10-16,YouTube Was Down For Many Users Tuesday Night,negative,34.63999938964844,36.470001220703125,1,negative,0
+NFLX,2020-05-15,"Quibi Blames Coronavirus For Lackluster Launch, But Is Its Strategy The Real Problem?",negative,45.41899871826172,45.257999420166016,0,negative,0
+NFLX,2019-12-30,"Rosenblatt's 2020 Tech Predictions: Facebook Stays Intact, Spotify Partners With Video Platform, Shopify Ramps Fulfillment Revenue",positive,32.33100128173828,32.35699844360352,1,positive,1
+NFLX,2018-03-09,'Pharma Bro' Martin Shkreli Gets 7 Years In Prison For Securities Fraud,negative,33.14400100708008,32.130001068115234,0,negative,0
+NFLX,2018-07-02,Tech Sector Earnings: What's Been Going on Ahead Of Q2 Reports?,negative,39.81800079345703,39.05199813842773,0,positive,1
+NFLX,2020-03-16,Coronavirus Downturn Prompts Bitcoiners To Take A Bet On Alternate Markets,negative,29.88400077819824,31.975000381469727,1,positive,1
+NFLX,2019-04-09,"As Market Seeks Direction, FAANG Selling Comes Into Focus Amid New Data",positive,36.47100067138672,36.391998291015625,0,positive,1
+NFLX,2018-07-17,Mid-Morning Market Update: Markets Open Lower; Goldman Sachs Earnings Top Expectations,negative,37.948001861572266,37.51300048828125,0,positive,1
+NFLX,2018-07-02,"The Best Performing Sectors, Assets In The First Half Of 2018",positive,39.81800079345703,39.05199813842773,0,positive,1
+NFLX,2019-09-09,"Bank Of America, Citing SensorTower, Says Netflix Downloads Tracking Up 30% Sequentially, Says Seeing Significant Reacceleration In Q3",positive,29.43400001525879,28.798999786376957,0,positive,1
+NFLX,2020-04-15,"Cowen & Co. Reiterates Outperform on Netflix, Raises Price Target to $445",positive,42.67499923706055,43.91699981689453,1,positive,1
+NFLX,2020-04-21,"Netflix Q1 Global Streaming Subs 182.86M, Up 22.8% Year Over Year",positive,43.382999420166016,42.141998291015625,0,positive,1
+NFLX,2019-09-20,"Netflix shares trading lower following comments from an Evercore ISI analyst suggesting recent data checks were soft, creating uncertainty about the company's int'l. subscriber growth.",negative,27.075000762939453,26.59199905395508,0,negative,0
+NFLX,2019-12-18,"'Nearly 7% of Disney+ users with Netflix plan to cancel Netflix, survey shows' -Recent CNBC Article",negative,32.08000183105469,33.22200012207031,1,negative,0
+NFLX,2018-09-05,"Tech Stocks Fall Amid Twitter, Facebook Senate Testimonies",negative,34.11800003051758,34.645999908447266,1,negative,0
+NFLX,2019-05-15,"Shares of several important consumer technology mega cap companies trading higher with the broader stock market. These stocks were under pressure over the last couple weeks as concerns with US, China trade talks weighed.",positive,35.499000549316406,35.930999755859375,1,positive,1
+NFLX,2018-04-10,"Raymond James Maintains Outperform on Netflix, Raises Price Target to $330.00",positive,29.80699920654297,30.367000579833984,1,positive,1
+NFLX,2019-09-10,"Netflix, Disney Shares Fall Following Unveiling Of Details For Apple TV+",negative,28.798999786376957,28.82699966430664,1,negative,0
+NFLX,2018-04-16,Netflix Q1 Total Net Streaming Additions 7.41M vs 6.43M Est.,negative,30.777999877929688,33.60599899291992,1,positive,1
+NFLX,2019-10-18,Netflix Misses On Domestic Subscribers But Beats Earnings Estimates,positive,27.530000686645508,27.80500030517578,1,positive,1
+NFLX,2018-10-17,36 Stocks Moving In Wednesday's Mid-Day Session,negative,36.470001220703125,34.67100143432617,0,positive,1
+NFLX,2020-04-20,"Netflix shares are trading higher, potentially in anticipation of the company's Q1 earnings report Tuesday. Streaming services have attracted investor interest amid the coronavirus pandemic, which has led to theater closures.",positive,43.749000549316406,43.382999420166016,0,positive,1
+NFLX,2019-10-17,"UPDATE: Bank Of America On Netflix Also Continues 'to see upside to '20/'21 margin and EPS, with operating income surprising consensus by a double digit percentage each quarter so far in '19'; Yet, Firm Remains Wary Of Competition, US Sub Growth",positive,29.334999084472656,27.530000686645508,0,positive,1
+NFLX,2019-12-18,"'Disney Plus Signed Up 24 Million U.S. Subscribers in November and Took Bite Out of Netflix, Analysts Estimate' -Variety",positive,32.08000183105469,33.22200012207031,1,positive,1
+NFLX,2020-04-22,"Nomura Maintains Neutral on Netflix, Raises Price Target to $390",positive,42.141998291015625,42.66999816894531,1,positive,1
+NFLX,2019-07-17,Netflix shares are trading lower after the company reported worse-than-expected Q2 sales and subscriber results.,negative,36.24399948120117,32.520999908447266,0,negative,0
+NFLX,2019-05-16,"Cisco, Walmart Earnings Brighten Market Sentiment Even As U.S. Targets Huawei",positive,35.930999755859375,35.44499969482422,0,positive,1
+NFLX,2019-07-03,Netflix Could Be Near A Deal For UK's Iconic Pinewood,positive,38.172000885009766,38.05500030517578,0,positive,1
+NFLX,2020-01-21,Netflix shares are trading lower after the company reported Q4 earnings results.,negative,33.81100082397461,32.599998474121094,0,negative,0
+NFLX,2020-01-02,Rosenblatt: Disney+ Subscriber Expectations Are Growing,positive,32.98099899291992,32.59000015258789,0,positive,1
+NFLX,2018-04-25,Upside In Netflix Shares Intensifies Over Last 20 Mins. as Resistance Level At $305 Breached; Price Saw Technical Importance At That Level Numerous Times So Far Wed.,positive,30.576000213623047,31.39800071716309,1,positive,1
+NFLX,2020-04-17,"ESPAÃOL â¢ Notas del DÃ­a: Jason Silva, Un Nobel en Cannabis, Jane West, 'Cooked With Cannabis' en Netflix, MamÃ¡ Cultiva, y MedMen",positive,42.29600143432617,43.749000549316406,1,positive,1
+NFLX,2019-07-09,"As Investors Await Fed Chair Testimony Wednesday, PepsiCo Delivers Strong Results",positive,37.99300003051758,38.09999847412109,1,positive,1
+NFLX,2019-01-17,"Netflix Sees Q1 EPS $0.56 May Not Compare To $0.83 Est., Sales $4.49B vs $4.61B Est.",negative,35.319000244140625,33.90999984741211,0,negative,0
+NFLX,2018-11-28,'Netflix to ramp up productions in Europe in 2019 -Financial Times,positive,28.26499938964844,28.875,1,positive,1
+NFLX,2019-10-16,"Netflix Says There May Be Some Modest Headwind To Near-Term Growth Due To Launch Of Disney+, Apple TV+, HBO Max, Peacock Services",negative,28.62800025939941,29.334999084472656,1,negative,0
+NFLX,2019-10-16,"Netflix Trades Higher After Q3 Earnings Beat, Subscriber Growth",positive,28.62800025939941,29.334999084472656,1,positive,1
+NFLX,2019-06-04,Shares of several technology companies are trading higher after China's Commerce Ministry stated they are open to dialogue to resolve trade tensions; Mexico trade concerns also eased after Mexican officials said it could find common ground with the US.,positive,35.34000015258789,35.573001861572266,1,positive,1
+NFLX,2018-03-15,"After Three Consecutive Lower Closes, Can Market Recover On Slow News Day?",positive,32.10900115966797,31.84499931335449,0,positive,1
+NFLX,2018-03-16,"Benzinga's Top Upgrades, Downgrades For March 16, 2018",negative,31.84499931335449,31.347999572753903,0,positive,1
+NFLX,2018-11-14,"Moderate Inflation, Positive Retail Earnings Offer Lift In Back-And-Forth Market",positive,28.67300033569336,29.006000518798828,1,positive,1
+NFLX,2018-05-10,"Netflix Shares Down ~0.7% Over Last Few Mins., Now Rebounding From $328 Level; Stock Down 0.5% For Session; Not Seeing News To Justify Move Lower",negative,32.959999084472656,32.645999908447266,0,positive,1
+NFLX,2018-04-17,"Stifel Nicolaus Maintains Hold on Netflix, Raises Price Target to $345.00",positive,33.60599899291992,33.45199966430664,0,positive,1
+NFLX,2019-09-11,12 Stocks With The Most Earnings Upside Potential,negative,28.82699966430664,28.88599967956543,1,positive,1
+NFLX,2019-11-15,UPDATE: Wedbush On Apple Notes 'we believe Apple and Disney+ could displace roughly 10%+ of Netflix's installed base and it could be disrupted/higher churn by these two stalwarts entering the streaming landscape',negative,29.50300025939941,30.256999969482425,1,positive,1
+NFLX,2019-10-30,Idomoo Raises $18M In Funding To Help Businesses Launch Personalized Video Campaigns,positive,29.145000457763672,28.74099922180176,0,positive,1
+NFLX,2020-04-21,"Netflix Q1 EPS $1.570 Misses $1.650 Estimate, Sales $5.770B Beat $5.760B Estimate",positive,43.382999420166016,42.141998291015625,0,positive,1
+NFLX,2019-10-15,"Bank Earnings Quartet Mostly In Tune, Led By Strength At JPMorgan, Citigroup",positive,28.424999237060547,28.62800025939941,1,positive,1
+NFLX,2019-01-18,"Goldman Sachs Maintains Buy on Netflix, Raises Price Target to $450",positive,33.90999984741211,32.51599884033203,0,positive,1
+NFLX,2020-01-21,"Netflix Q4 EPS $1.30 Does Not Compare To $0.53 Estimate, Sales $5.47B Beat $5.45B Estimate",positive,33.81100082397461,32.599998474121094,0,negative,0
+NFLX,2019-03-12,Netflix Signs Multi-year Agreements To Produce And Distribute Anime,positive,35.62699890136719,36.12099838256836,1,positive,1
+NFLX,2019-12-17,Netflix Option Alert: Jan 3 $320 Calls Sweep (60) near the Ask: 658 @ $4.81 vs 157 OI; Earnings 1/21 After Close Ref=$314.91,positive,31.54800033569336,32.08000183105469,1,positive,1
+NFLX,2019-10-17,Netflix shares are trading higher after the company reported better-than-expected Q3 EPS results. The company also reported global streaming paid memberships up 19.2%.,positive,29.334999084472656,27.530000686645508,0,positive,1
+NFLX,2018-04-10,"Morgan Stanley Maintains Overweight on Netflix, Raises Price Target to $350.00",positive,29.80699920654297,30.367000579833984,1,positive,1
+NFLX,2019-11-19,"Disney+ Accounts Reportedly Hacked, Sold On The Dark Web",negative,30.26000022888184,30.516000747680664,1,negative,0
+NFLX,2020-01-22,"Wedbush Maintains Underperform on Netflix, Lowers Price Target to $173",negative,32.599998474121094,34.959999084472656,1,negative,0
+NFLX,2019-01-15,Netflix Shares Spike 2% Over Last Min.,positive,35.4640007019043,35.138999938964844,0,positive,1
+NFLX,2018-10-17,"Raymond James Maintains Outperform on Netflix, Raises Price Target to $435",positive,36.470001220703125,34.67100143432617,0,positive,1
+NFLX,2019-07-18,Analysts Weigh In On Netflix's Rocky Quarter,negative,32.520999908447266,31.51000022888184,0,negative,0
+NFLX,2020-04-16,"Wedbush Maintains Underperform on Netflix, Raises Price Target to $194",positive,43.91699981689453,42.29600143432617,0,positive,1
+NFLX,2019-10-18,"Netflix, Amazon Face Censorship Threat in India",negative,27.530000686645508,27.80500030517578,1,negative,0
+NFLX,2018-10-17,KeyBanc Downgrades Netflix to Sector Weight,negative,36.470001220703125,34.67100143432617,0,negative,0
+NFLX,2019-09-25,Netflix shares are trading higher after Credit Suisse maintained an Outperform rating on the stock.,positive,26.475000381469727,26.33099937438965,0,positive,1
+NFLX,2019-10-08,Netflix Signs Deal With Mediaset To Produce Italian Films,positive,27.07200050354004,26.75300025939941,0,positive,1
+NFLX,2019-10-14,"UPDATE: Raymond James Maintains Strong Buy On Netflix, Lowers Target To $415 As Firm Notes 'We proactively lowered our 3Q-4Q19E subs to reflect some pull forward from Stranger Things and near-term noise from competitor launches'",negative,28.55299949645996,28.424999237060547,0,positive,1
+NVDA,2018-11-30,Nvidia shares trading up 2.7% after IHS reported worldwide semiconductor revenue hit a record of $129.8B in Q3.,positive,4.051538467407227,4.215403079986572,1,positive,1
+NVDA,2020-05-18,"Walmart, Target And Home Depot Among Major Retailers Set To Report Earnings In Days Ahead",positive,8.71607494354248,8.771110534667969,1,positive,1
+NVDA,2019-12-10,8 Technology Stocks Moving In Tuesday's Pre-Market Session,negative,5.3254218101501465,5.40904426574707,1,positive,1
+NVDA,2019-12-31,"Benchmark Maintains Buy on NVIDIA, Raises Price Target to $275",positive,5.85602331161499,5.970754146575928,1,positive,1
+NVDA,2019-11-15,"UPDATE: Mizuho Maintains Buy On NVIDIA, Raises Target To $230 Notes 'The OctQ top line was driven by Gaming/Data Center strength from ray tracing RTX GPUs and Hyperscale/Cloud customers'",positive,5.07802677154541,5.279218673706055,1,positive,1
+NVDA,2019-12-02,Shares of several technology and growth stocks are trading lower as US equities dip following escalating US-China tensions over Hong Kong. US stocks further fell on worse-than-expected manufacturing data.,negative,5.207703113555908,5.168132305145264,0,negative,0
+NVDA,2018-11-20,Exane BNP Paribas Downgrades NVIDIA to Underperform,negative,3.692096710205078,3.5838701725006104,0,negative,0
+NVDA,2019-07-29,Shares of several semiconductors companies are trading lower on seemingly no news. It could potentially be a sell-off following the sector experiencing continued growth over the course of the last two months.,negative,4.343320369720459,4.358973979949951,1,negative,0
+NVDA,2019-10-03,Shares of many semiconductor companies are trading higher as investors are optimistic of a trade deal with China that could be reached after President Trump said a Chinese delegation is set to come to the U.S. next week for continued trade talks.,positive,4.5090203285217285,4.525435924530029,1,positive,1
+NVDA,2020-02-14,UPDATE: Morgan Stanley On Nvidia Notes 'That strong data center growth is particularly notable in that we see new products coming in the next quarter or two',positive,7.212141990661621,7.380878925323486,1,positive,1
+NVDA,2019-08-19,Shares of several semiconductors are trading higher on renewed hopes of a resolution to trade tensions between the US and China.,positive,4.242948055267334,4.170650959014893,0,positive,1
+NVDA,2019-11-25,"Benzinga's Top Upgrades, Downgrades For November 25, 2019",negative,5.50130033493042,5.396598815917969,0,positive,1
+NVDA,2020-02-07,"Job Market Heats Up In January, As Warmer Weather Might Have Helped Add Positions",positive,6.261441230773926,6.544660568237305,1,positive,1
+NVDA,2019-03-19,NVIDIA shares are trading higher after the company teamed up with Amazon Web Services IoT to bring AI to millions of connected devices.,positive,4.36045503616333,4.32794713973999,0,positive,1
+NVDA,2020-02-11,"Under Armour Gets Torn Up As Earnings Disappoint, But Coronavirus Fears Retreat Slightly",negative,6.667106628417969,6.782832145690918,1,negative,0
+NVDA,2020-04-16,Hearing Mellanox Reportedly Receives China approval For NVIDIA Merger,positive,7.338725566864014,7.279459476470947,0,positive,1
+NVDA,2019-01-07,NVIDIA shares are trading higher after the company announced a new gaming chip at CES 2019.,positive,3.5549800395965576,3.466477632522583,0,positive,1
+NVDA,2019-08-05,Shares of several semiconductor companies are trading lower after President Trump announced additional tariffs on Chinese goods.,negative,3.746307373046875,3.785064697265625,1,negative,0
+NVDA,2019-03-19,NVIDIA Teams with Amazon Web Services to Bring AI to Millions of Connected Devices,positive,4.36045503616333,4.32794713973999,0,positive,1
+NVDA,2018-01-03,Chip Stocks Volatile Hearing Amid Report Intel Offered Response To Report Of Security Research Findings,negative,5.252614974975586,5.28030252456665,1,positive,1
+NVDA,2018-02-02,"Citron Thinks Nvidia Shares Could Fall 15%, Calls It 'Great Company, Dangerous Stock'",negative,5.773006439208984,5.283022403717041,0,negative,0
+NVDA,2018-08-17,Headlights On Deere: Mixed Results As Company Cites Higher Costs,negative,6.0598673820495605,6.134618282318115,1,negative,0
+NVDA,2019-05-06,Shares of several multinational companies are trading lower following a tweet from President Trump which hinted at additional tariffs on China and China indicated it may back out of upcoming trade negotiations.,negative,4.463195323944092,4.295933723449707,0,negative,0
+NVDA,2019-08-15,"NVIDIA Sees Q3 Sales $2.842B-$2.958B vs $2.97B Estimate, Adj. Gross Margin ~62.5%",positive,3.696120977401733,3.96419358253479,1,positive,1
+NVDA,2020-05-22,"SunTrust Robinson Humphrey Maintains Buy on NVIDIA, Raises Price Target to $384",positive,8.990998268127441,8.683703422546387,0,positive,1
+NVDA,2019-11-15,"Morgan Stanley Maintains Equal-Weight on NVIDIA, Raises Price Target to $217",positive,5.07802677154541,5.279218673706055,1,positive,1
+NVDA,2018-03-06,An Eventful February Took Its Toll On TD Ameritrade's Investor Index,negative,5.990321159362793,5.982404708862305,0,negative,0
+NVDA,2018-05-10,NVIDIA CFO On Conf. Call Reportedly Says Supply Situation Is 'Now Easing' And GPU Channel Prices Normalizing,positive,6.4348464012146,6.296319007873535,0,positive,1
+NVDA,2018-01-08,"Foresight Autonomous Shares Up 18.96%; In Earlier 6-K Filing Presentation, Co. Reported Collaboration With Nvidia In Rail",positive,5.4882121086120605,5.486729621887207,0,positive,1
+NVDA,2019-02-14,Nvidia Shares Spike Higher Following Q4 Earnings Beat,positive,3.830900669097901,3.9005627632141113,1,positive,1
+NVDA,2018-07-12,NVIDIA Shares Trading Lower As Traders Circulate The Information Article Which Highlights Huawei's AI Push With 'Project Da Vinci' To Challenge NVIDIA's AI Chips,negative,6.218528747558594,6.171252727508545,0,negative,0
+NVDA,2018-01-23,"Morgan Stanley Sees Ethereum's Strength Benefiting AMD, Nvidia",positive,5.906256198883057,5.829371452331543,0,positive,1
+NVDA,2019-01-31,Cypress Semiconductor Corp shares are trading higher after the company beat Q4 earnings estimates; shares of other semiconductor stocks are trading slightly higher in sympathy.,positive,3.563657283782959,3.587952136993408,1,positive,1
+NVDA,2018-12-19,"Intel, NVIDIA, and Advanced Micro Devices are trading lower in sympathy with Micron after the company issued concerning Q2 guidance and cut its DRAM bit output growth forecasts.",negative,3.433753967285156,3.3492178916931152,0,negative,0
+NVDA,2020-03-18,"Morgan Stanley Maintains Overweight on NVIDIA, Lowers Price Target to $268",negative,5.050695896148682,5.30345630645752,1,positive,1
+NVDA,2019-06-27,NVIDIA shares are trading higher after Wedbush initiated coverage on the stock with an Outperform rating and announced a $184 price target.,positive,4.055373668670654,4.0802178382873535,1,positive,1
+NVDA,2018-11-02,"Tug-of-War: Solid Jobs Report, China Trade Talks Lift Market, But AAPL Disappoints",positive,5.322681427001953,5.244670867919922,0,positive,1
+NVDA,2019-01-08,"Goldman Expects '2019 to be another challenging year for Semis, particularly in 1H'; Firm Is 'least negative on Semi Cap Equipment as the stocks already seem to be pricing in a downturn'",negative,3.466477632522583,3.534652709960937,1,positive,1
+NVDA,2018-05-03,"A Peek Into The Markets: US Stock Futures Gain Ahead Of Earnings, Economic Data",positive,5.76348352432251,5.913637638092041,1,positive,1
+NVDA,2019-10-08,"Shares of several semiconductor companies are trading lower as optimism around the upcoming U.S.-China trade talks waned. A report says China is toning down its expectations of the meeting. The U.S. expanded its trade blacklist, and scheduled an increase in tariffs on $250 billion worth of Chinese goods from 25% to 30% on Oct. 15, which will go into effect if no progress is made.",negative,4.407553672790527,4.494100093841553,1,negative,0
+NVDA,2018-11-16,Mid-Morning Market Update: Markets Mostly Higher; Viacom Beats Q4 Expectations,positive,4.07225513458252,3.583622932434082,0,positive,1
+NVDA,2019-03-14,China Might Take Some Starch Out of U.S. Rally With More Weak Economic Data,negative,4.108571529388428,4.214040279388428,1,negative,0
+NVDA,2018-11-09,"Cold Start: Worries About Hawkish Fed, Rising Prices Seem To Weigh On Sentiment",negative,5.093598365783691,4.694124698638916,0,negative,0
+NVDA,2018-05-10,"Cryptocurrency Mining Grew Faster Than Expected, Bernstein Says In Semiconductor Roundup",positive,6.4348464012146,6.296319007873535,0,positive,1
+NVDA,2018-07-02,Tech Sector Earnings: What's Been Going on Ahead Of Q2 Reports?,negative,5.996007919311523,5.862343311309815,0,positive,1
+NVDA,2019-04-03,"Benzinga's Top Upgrades, Downgrades For April 3, 2019",negative,4.680832862854004,4.671899795532227,0,positive,1
+NVDA,2020-02-25,"Shares of several semiconductor companies are trading higher as markets partially rebound from Monday's dip. NOTE: While some markets recover, coronavirus fears still persist globally.",positive,6.521763801574707,6.661131858825684,1,positive,1
+NVDA,2020-03-24,"UPDATE: Needham Upgrades NVIDIA To Buy, Announces $270 Target Notes 'During this uncertain time, superior balance sheets remain supreme'; Firm Believes 'GPUs for medical applications will ramp in light of the COVID-19 pandemic'",positive,6.205168724060059,6.116518497467041,0,positive,1
+NVDA,2018-07-02,NVIDIA Option Alert: Jul 20 $220 Puts Sweep (51) below Bid!: 1725 @ $2.601 vs 5202 OI; Earnings 8/9 After Close [est] Ref=$236.12,positive,5.996007919311523,5.862343311309815,0,positive,1
+NVDA,2020-04-01,"Shares of several technology, semiconductor, and software companies are trading lower amid market weakness as macro concerns continue to grow as a result of the coronavirus pandemic. The White House said it expects a surge in cases over the next 2 weeks.",negative,6.053016662597656,6.361807346343994,1,negative,0
+NVDA,2019-06-11,Analyst: AMD's New Graphics Cards Make 'Meaningful Improvement' But Cost More Than Expected,positive,3.74531364440918,3.632270336151123,0,positive,1
+NVDA,2018-01-04,Analysts Weigh In On Intel's Security Issues,negative,5.28030252456665,5.325049877166748,1,negative,0
+NVDA,2018-07-17,"Morgan Stanley: Nvidia 'The Cleanest Growth Story In Semis,' With New Products Ahead",positive,6.279421329498291,6.23016357421875,0,positive,1
+NVDA,2020-05-11,"Needham Maintains Buy on NVIDIA, Raises Price Target to $360",positive,8.034001350402832,7.772026538848877,0,positive,1
+NVDA,2020-04-01,Some Staples Stocks Bouncing Back After Sliding In Recent Rally As Caution Tightens Grip,negative,6.053016662597656,6.361807346343994,1,negative,0
+NVDA,2019-11-15,"UPDATE: Morgan Stanley Maintains Equal-Weight On NVIDIA, Raises Tgt To $217 Notes Co. 'showed upside to the qtr, but guided revs 4% below consensus/in line with our ests; data center grew in line with ests, vs. an expectation for some upside'",positive,5.07802677154541,5.279218673706055,1,positive,1
+NVDA,2018-01-03,"Intel's Potentially Major Security Flaw Boosting AMD, Other Chip Stocks",negative,5.252614974975586,5.28030252456665,1,positive,1
+NVDA,2020-04-16,NVIDIA shares are trading higher after the company received Chinese approval for its acquisition of Mellanox.,positive,7.338725566864014,7.279459476470947,0,positive,1
+NVDA,2019-11-14,"NVIDIA Shares Unaffected As Traders Circulate Word From Jefferies Suggesting GPU-Card Maker In Contact With Firm Suggested Co. Stopped Shipping GPUs To It During Second Half Of Oct., Card Maker Sees H2'19 Unit Growth In 15-20% Range",negative,5.2172932624816895,5.07802677154541,0,positive,1
+NVDA,2018-05-31,Encouraging Data For Electric Vehicle ETFs,positive,6.242291450500488,6.376698017120361,1,positive,1
+NVDA,2019-03-26,NVIDIA shares are trading higher after Piper Jaffray initiated coverage on the stock with an Overweight rating and announced a $200 price target.,positive,4.389242172241211,4.38006067276001,0,positive,1
+NVDA,2018-12-27,"RBC Capital Reiterates Outperform On NVIDIA, Lowers Price Target From $230 To $200",negative,3.25179123878479,3.3132715225219727,1,positive,1
+NVDA,2020-05-21,"Credit Suisse Reinstates Outperform on NVIDIA, Announces $425 Price Target",positive,8.74097728729248,8.990998268127441,1,positive,1
+NVDA,2018-05-10,"NVIDIA Q1 EPS $2.05 Beats $1.45 Estimate, Sales $3.21B Beat $2.89B Estimate",positive,6.4348464012146,6.296319007873535,0,positive,1
+NVDA,2020-05-19,Nvidia Investors Accuse Chipmaker Of Misrepresenting $1B In Crypto Revenue In Lawsuit,negative,8.771110534667969,8.934967041015625,1,negative,0
+NVDA,2020-05-21,"A Peek Into The Markets: US Stock Futures Down Ahead Of Earnings, Jobless Claims Data",negative,8.74097728729248,8.990998268127441,1,negative,0
+NVDA,2019-10-09,Option Traders Make Bullish Bets On Nvidia,negative,4.494100093841553,4.551796436309815,1,positive,1
+NVDA,2019-10-15,"Bank of America Maintains Buy on NVIDIA, Raises Price Target to $250",positive,4.883550643920898,4.829833507537842,0,positive,1
+NVDA,2019-04-01,Shares of several semiconductor stocks are trading higher following strong manufacturing data from China after a guidance warning by Infineon last week dragged the sector lower. Strength may also be related to news of a lower value-added tax in China and positive US manufacturing data.,positive,4.52349853515625,4.541366100311279,1,positive,1
+NVDA,2018-02-09,"Deutsche Bank Maintains Hold on NVIDIA, Raises price target to $230.00",positive,5.737407207489014,5.6372833251953125,0,positive,1
+NVDA,2018-02-09,5 Tech Growth Stocks To Click With Investors Despite Selloff,positive,5.737407207489014,5.6372833251953125,0,positive,1
+NVDA,2019-01-29,"Benzinga's Top Upgrades, Downgrades For January 29, 2019",negative,3.262450695037842,3.405989170074463,1,positive,1
+NVDA,2018-10-18,NVIDIA Shares Up 1.2% Premarket; Hearing Goldman Added Stock To Its 'Conviction Buy' List,positive,5.9321699142456055,5.675596237182617,0,positive,1
+NVDA,2019-06-06,"Barclays Maintains Overweight on NVIDIA, Lowers Price Target to $180",positive,3.5721468925476074,3.614879608154297,1,positive,1
+NVDA,2018-12-27,"Shares of chip stocks are trading lower after RBC analysts reportedly issued cautious commentary on NVIDIA, citing potential softness in the gaming sector.",negative,3.25179123878479,3.3132715225219727,1,negative,0
+NVDA,2019-08-16,Mid-Morning Market Update: Markets Open Higher; Deere Earnings Miss Views,positive,3.96419358253479,4.242948055267334,1,negative,0
+NVDA,2019-11-15,"UPDATE: Mizuho On NVIDIA Notes 'Looking into JanQ, NVDA noted weakness from PCs and gaming offset by continued Data Center growth and strong GM driven by product mix'",negative,5.07802677154541,5.279218673706055,1,positive,1
+NVDA,2019-03-19,Samsung CEO Sees Intensified Competition in Chip Market Due to Oversupply,negative,4.36045503616333,4.32794713973999,0,negative,0
+NVDA,2019-07-01,Shares of several hardware suppliers are trading higher after President Trump said he would ease the ban on US companies selling to Huawei.,positive,4.128415584564209,4.030528545379639,0,positive,1
+NVDA,2019-05-15,IDC Issues Press Release Highlighting Research Showing Forecast For Global Semi Sales To Be Down 7.2% In 2019,negative,3.9601705074310303,3.975307941436768,1,negative,0
+NVDA,2020-03-04,Shares of several technology companies are trading higher after Joe Biden took the delegate lead on Super Tuesday. Biden's more 'moderate' economic policies have been seen as more favorable for growth.,positive,7.084971904754639,6.80556583404541,0,positive,1
+NVDA,2020-05-01,Shares of several technology companies are trading lower on market weakness as investor uncertainty grows following quarterly earnings results from multiple companies. NOTE: This could potentially be a sell-off after the S&P 500 rallied 12.7% over the past month.,negative,7.0418901443481445,7.253808975219727,1,negative,0
+NVDA,2018-02-15,Vetr Crowd Downgrades Nvidia To Hold,negative,6.093892574310303,6.028134822845459,0,negative,0
+NVDA,2020-01-13,"UPDATE: Needham Upgrades NVIDIA To Hold 'following our positive meeting at CES'; 'we contend the shares are fully valued at 34x our F2021 earnings estimate (near multi-year high). Furthermore, we believe competition will accelerate in AI training in 2020'",positive,6.271146774291992,6.154175758361816,0,positive,1
+NVDA,2018-08-14,Nvidia Shares Rise 0.8% After-Hours Following Wells Fargo Upgrade to Outperform,positive,6.47100305557251,6.412836074829102,0,positive,1
+NVDA,2020-02-25,"UPDATE: Nomura Downgrades NVIDIA to Reduce, Lowers Price Target to $230 As Firm Notes 'In our view, the risks to the global semiconductor industry posed by the COVID-19 outbreak have grown over the last few weeks.'",negative,6.521763801574707,6.661131858825684,1,negative,0
+NVDA,2018-03-27,NVIDIA Temporarily Suspends Self Driving Testing Across Globe Following Uber Fatality,negative,5.578697681427002,5.47554349899292,0,negative,0
+NVDA,2019-05-13,Trade War Heats Up As China Retaliates With Raised Tariffs Of Its Own,negative,3.932128429412842,4.021218776702881,1,negative,0
+NVDA,2018-02-09,A Peek Into The Markets: U.S. Stock Futures Mixed Ahead Of Wholesale Trade Report,negative,5.737407207489014,5.6372833251953125,0,positive,1
+NVDA,2018-10-30,NVIDIA shares are up 4.5% after analysts at JP Morgan upgraded the stock from 'Neutral' to 'Overweight'; Analysts said the company will continue to see outsized growth and clear leadership in data center/HPC and gaming over the next few years.,positive,5.027473449707031,5.221388339996338,1,positive,1
+NVDA,2018-11-26,"Credit Suisse Initiates Coverage On NVIDIA with Outperform Rating, Announces $225 Price Target",positive,3.790418148040772,3.8072588443756095,1,positive,1
+NVDA,2019-08-15,Nvidia Trades Higher On Q2 Earnings Beat,positive,3.696120977401733,3.96419358253479,1,positive,1
+NVDA,2018-10-30,"Stocks Which Set New 52-Week Low Yesterday, October 29th",negative,5.027473449707031,5.221388339996338,1,negative,0
+NVDA,2020-03-25,"Airline Shares Jump As Stimulus Agreement Offers Relief, While Nike Up On Earnings",positive,6.116518497467041,6.4058837890625,1,positive,1
+NVDA,2020-05-22,"9 Nvidia Analysts On Q1 Beat, Ampere GPU: 'A Pure Play In Accelerated Computing'",positive,8.990998268127441,8.683703422546387,0,positive,1
+NVDA,2018-08-30,"Stocks Which Set New 52-Week High Yesterday, August 29th",positive,6.880208015441895,6.951286792755127,1,positive,1
+NVDA,2018-02-27,"Citi Names Intel A Top Pick, Calls Stock 'The Micron Of 2018'",positive,6.086795330047607,5.986364841461182,0,positive,1
+NVDA,2018-01-12,TD Ameritrade Index Indicates Retail Investors Are At Their Most Bullish Point Yet,positive,5.512439250946045,5.441488742828369,0,positive,1
+NVDA,2018-08-15,Nvidia Gets Double Upgrade Ahead Of Earnings,positive,6.412836074829102,6.3722429275512695,0,positive,1
+NVDA,2019-01-03,Several Apple supplier shares are trading lower after Apple lowered Q1 sales expectations by 7.7%.,negative,3.1729564666748047,3.376239776611328,1,negative,0
+TSLA,2020-05-11,"Tesla's China Sales Dropped 64% In April, Even As Wider Market Recovered, CPCA Says",negative,54.08599853515625,53.96066665649414,0,negative,0
+TSLA,2019-08-07,'Tesla plans to increase its Full Self-Driving price again on August 16' -Electrek,positive,15.56133270263672,15.886667251586914,1,negative,0
+TSLA,2020-03-24,UBS Upgrades Tesla to Neutral,positive,33.66666793823242,35.95000076293945,1,positive,1
+TSLA,2019-12-26,Tesla Gets $1.6B Loan From Chinese Banks For Shanghai Gigafactory,positive,28.72933387756348,28.691999435424805,0,positive,1
+TSLA,2020-05-19,Tesla's Car Registrations Slumped In China In April,negative,53.867332458496094,54.37066650390625,1,negative,0
+TSLA,2019-10-23,16 Stocks With The Highest Long-Term Sales Growth Rate,positive,16.978666305541992,19.978666305541992,1,positive,1
+TSLA,2020-03-03,Fed Surprise: 50 Basis Point Cut Does Little To Support Wobbly Markets,negative,49.70066833496094,49.96666717529297,1,negative,0
+TSLA,2020-04-29,"Tesla Reports Big Q1 Earnings Beat, Near-Term Profitability 'On Hold'",negative,53.367332458496094,52.12533187866211,0,positive,1
+TSLA,2020-05-11,Wuhan Considers Policies to Help Automaker Dongfeng,positive,54.08599853515625,53.96066665649414,0,positive,1
+TSLA,2020-05-01,"Amazon, Exxon Mobil Earnings Weigh On Market To Start New Month As Caution Steers The Wheel",negative,46.75466537475586,50.74599838256836,1,negative,0
+TSLA,2020-04-22,"Benzinga's Top Upgrades, Downgrades For April 22, 2020",negative,48.80733489990234,47.04199981689453,0,positive,1
+TSLA,2020-01-10,"Piper Sandler Maintains Overweight on Tesla, Raises Price Target to $553",positive,31.87666702270508,34.990665435791016,1,positive,1
+TSLA,2019-08-29,"Tesla Analyst: Europe Business Steady, 'Demand Challenges Remain'",positive,14.780667304992676,15.040666580200195,1,positive,1
+TSLA,2020-04-29,"Tesla Q1 Adj. EPS $1.240 Beats $(0.360) Estimate, Sales $5.985B Beat $5.900B Estimate",positive,53.367332458496094,52.12533187866211,0,positive,1
+TSLA,2019-10-24,"UPDATE: Nomura On Tesla Also Notes 'This said, we expect some skepticism will remain for at least another quarter, given the magnitude of the improvement in profitability over just three months and some items that may be one-time in nature'",positive,19.978666305541992,21.875333786010746,1,positive,1
+TSLA,2019-12-26,"Morgan Stanley Says Tesla Faces Strong Competition From Rivian, Others",positive,28.72933387756348,28.691999435424805,0,negative,0
+TSLA,2020-04-13,Tesla Furlough Has Hit New Workers In Delivery And Sales The Worst: Report,negative,43.39666748046875,47.32600021362305,1,negative,0
+TSLA,2020-02-04,Tesla Shares Fall ~$108 Over Last Few Mins,negative,59.137332916259766,48.97999954223633,0,negative,0
+TSLA,2020-01-30,"Oppenheimer Maintains Outperform on Tesla, Raises Price Target to $684",positive,42.72066879272461,43.37133407592773,1,positive,1
+TSLA,2020-05-11,Mnuchin Says California Should Act To Ensure Tesla Can Operate,positive,54.08599853515625,53.96066665649414,0,positive,1
+TSLA,2020-03-30,Tesla shares are trading lower. Not seeing any news to justify the price action.,negative,33.47533416748047,34.93333435058594,1,negative,0
+TSLA,2019-10-16,"'AIG Faces Potential Claim in Elon Musk Defamation Case, Filing Shows' -Bloomberg",negative,17.316667556762695,17.46466636657715,1,negative,0
+TSLA,2019-10-29,GM Beats Wall Street Estimates Despite Strike Hit,positive,21.08133316040039,21.000667572021484,0,positive,1
+TSLA,2020-02-25,"Earnings To The Rescue? HP, Macy's, Home Depot All Report Solid Results, Providing Lift",positive,53.32733154296875,51.91999816894531,0,positive,1
+TSLA,2020-01-09,Hearing CFRA Downgrades Tesla From Hold To Sell; Unconfirmed,negative,32.089332580566406,31.87666702270508,0,negative,0
+TSLA,2020-02-21,"'Cheaper CATL Batteries May Spur Demand for Tesla in China: BNEF"" Lower-energy density battery (lithium-iron-phosphate) for $TSLA in China could = opening up a new segment for Tesla in China' -Tweet From Bloomberg Reporter",positive,60.06666564941406,55.58599853515625,0,positive,1
+TSLA,2020-05-21,"Today's Pickup: Ford Reopens Two Facilities, Twice In The Same Week Over COVID-19 Scare",positive,55.17333221435547,54.45866775512695,0,negative,0
+TSLA,2019-07-26,"UPDATE: Cox Auto Sees Jul. Auto Sales 1.38M, Up 0.5% Year Over Year",positive,15.202667236328123,15.718000411987305,1,positive,1
+TSLA,2019-11-20,"'Tesla Cybertruck: Elon Musk has to deliver on high expectations, like $50,000 price tag' -Electrek",positive,23.481332778930664,23.655332565307617,1,positive,1
+TSLA,2020-01-16,From 'Made in China' to 'Designed in China:' Tesla Is Hiring Staff To Design Models In A New Local Research Center,positive,34.232666015625,34.03333282470703,0,positive,1
+TSLA,2020-03-18,Tesla Shares Drop As Alameda County Says Fremont Factory 'Not An Essential Business',negative,24.08133316040039,28.50933265686035,1,negative,0
+TSLA,2019-10-03,"Wedbush Maintains Neutral, $220 Target On Tesla As Firm Notes 'In our opinion this was an impressive delivery number for Tesla overall that should be viewed as a positive step in the right direction'",positive,15.535332679748535,15.428667068481444,0,positive,1
+TSLA,2020-03-04,"Tesla shares are trading higher. Move appears market related amid a rebound in equities following several sessions of weakness. UPDATE: Shares have since reversed, now lower.",negative,49.96666717529297,48.30266571044922,0,positive,1
+TSLA,2020-01-13,"Oppenheimer Maintains Outperform on Tesla, Raises Price Target to $612",positive,34.990665435791016,35.861331939697266,1,positive,1
+TSLA,2019-12-16,Today's Pickup: Tesla's Truck May Not Ride In Europe; Pushback On Morgan Stanley's Amazon Forecast,negative,25.433332443237305,25.266000747680664,0,negative,0
+TSLA,2019-11-07,Tesla shares are trading higher on continued momentum after S&P affirms its ratings on the stock and raised its outlook from Negative to positive. The S&P outlook upgrade is related to the improving business prospects and the increased likelihood of the company's credit metric that will improve more than the S&P's base case projection.,positive,22.369333267211918,22.47599983215332,1,positive,1
+TSLA,2020-05-27,"Twitter Account Highlights Negative Analyst Sentiment On Tesla Following Co.'s North American Price Cuts News, Cites Roth Capital Analyst, Gordon Johnson Of GLJ Research",negative,54.68199920654297,53.72066879272461,0,negative,0
+TSLA,2019-12-26,"Tesla 8-K Shows Co. Enter Deals With Syndicate Of Lenders In China For RMB9B Secured Term Loan, RMB2.25M Unsecured Revolving Facility",positive,28.72933387756348,28.691999435424805,0,positive,1
+TSLA,2020-02-04,"Benzinga's Top Upgrades, Downgrades For February 4, 2020",negative,59.137332916259766,48.97999954223633,0,positive,1
+TSLA,2020-03-30,Another One Bites the Dust: Tesla Reduces Its Nevada Gigafactory Activities,negative,33.47533416748047,34.93333435058594,1,negative,0
+TSLA,2020-05-11,California Governor Newsom Says Will Look Into Tesla Reopening Related To Possible Violation Of Public Health Order,negative,54.08599853515625,53.96066665649414,0,positive,1
+TSLA,2020-03-20,"Registration of New Tesla Cars in China in February Declined 35% MoM, Following a 46% MoM Decline in January",negative,28.50200080871582,28.952667236328125,1,negative,0
+TSLA,2020-02-18,"UPDATE: Morgan Stanley Maintains Underweight On Tesla, Raises Target To $500, Raises Bull Case Target From $650 To $1,200 Believes 'investors should expect a very challenging 1Q, with our bull case moving to expansionary mode on battery capacity'",positive,57.22666549682617,61.16133117675781,1,positive,1
+TSLA,2019-10-14,"Porsche Debuts The Taycan 4S, Its New 'Entry Level' Electric Car",positive,17.130666732788086,17.19266700744629,1,positive,1
+TSLA,2019-11-21,Tesla Unveils 'Bulletproof' Cybertruck With 'Unbreakable Glass',positive,23.655332565307617,22.202667236328125,0,positive,1
+TSLA,2019-12-10,Germany's â¬500 Million Cathode Factory To Boost European Electric Battery Production,positive,23.256000518798828,23.51333236694336,1,positive,1
+TSLA,2020-03-27,"Hearing New Street Upgrades Tesla From Neutral To Buy, Announces $800 Target",positive,34.29066848754883,33.47533416748047,0,positive,1
+TSLA,2020-01-16,"Morgan Stanley Downgrades Tesla to Underweight, Raises Price Target to $360",positive,34.232666015625,34.03333282470703,0,negative,0
+TSLA,2020-01-23,"UPDATE: UBS Reinstates Sell on Tesla, Raises Price Target to $410 As Firm Expects 'Tesla to reach 10% OP margin and generate $3-5B annual free cash flow from 2022 onwards, based on known products and capacities.'",positive,38.14666748046875,37.654666900634766,0,positive,1
+TSLA,2019-08-05,'Tesla loses head of 'manufacturing quality' in production leadership shake-up' -Electrek,negative,15.221332550048828,15.383333206176758,1,negative,0
+TSLA,2020-01-30,"Continuing A Run Of Good Fortune, Tesla Posts Second Quarterly Profit",positive,42.72066879272461,43.37133407592773,1,positive,1
+TSLA,2020-02-20,"'China considers extending EV subsidies after sales slump, report says' -Automotive News",negative,59.96066665649414,60.06666564941406,1,positive,1
+TSLA,2020-01-08,"'Tesla has to move endangered bats to build Gigafactory 4, could delay and faces opposition' -Electrek",negative,32.80933380126953,32.089332580566406,0,negative,0
+TSLA,2020-03-10,The Electric Revolution Speeding Up From Increased Regulations,positive,43.02199935913086,42.28200149536133,0,positive,1
+TSLA,2020-03-19,"Morgan Stanley Upgrades Tesla to Equal-Weight, Lowers Price Target to $460",positive,28.50933265686035,28.50200080871582,0,positive,1
+TSLA,2020-03-27,"'Tesla Gigafactory Shanghai makes 3,000 cars per week amid other factory shutdowns' -Electrek",negative,34.29066848754883,33.47533416748047,0,positive,1
+TSLA,2020-04-24,Tesla Raises China-made Model 3 Prices after EV Subsidies Cut,positive,48.34333419799805,53.25,1,negative,0
+TSLA,2020-02-12,"Tesla Shares Down 0.5% Over Last Few Mins., As Price Falls Below Near-Term Support Level At $775; Stock Down ~0.3% For Session",negative,51.15266799926758,53.59999847412109,1,negative,0
+TSLA,2020-03-03,"Tesla shares are trading higher. JMP analysts upgraded the company's stock from Market Perform to Market Outperform, saying the recent market pullback represents an opportunity for investors. UPDATE: Shares have since reversed, now lowe.",positive,49.70066833496094,49.96666717529297,1,positive,1
+TSLA,2020-01-09,"Baird Downgrades Tesla to Neutral, Raises Price Target to $525",positive,32.089332580566406,31.87666702270508,0,positive,1
+TSLA,2020-05-18,Tesla shares are trading higher after the company received approval to resume production at its Fremont plant.,positive,54.242000579833984,53.867332458496094,0,positive,1
+TSLA,2020-02-13,"Coronavirus Fears Back On Big Earnings Day As Alibaba, PepsiCo, Nvidia All Report",positive,53.59999847412109,53.33533477783203,0,positive,1
+TSLA,2019-10-18,Wedbush On Tesla Notes 'and that in order to hit its ambitious unit guidance of 360K â 400K the company will have to deliver about 105K vehicles in 4Q which we continue to view as a difficult task'; Expects China Ramp To Be Major Focus On Earnings Call',positive,17.1299991607666,16.899999618530273,0,negative,0
+TSLA,2020-01-30,"UPDATE: B of A Securities Maintains Underperform on Tesla, Raises Price Target to $370 Notes 10 Potential Catalysts To Remain Cautious:",negative,42.72066879272461,43.37133407592773,1,negative,0
+TSLA,2020-03-31,"Ford Collaborates With GE, Plans To Make 50,000 Ventilators In Michigan In 3 Months",positive,34.93333435058594,32.104000091552734,0,positive,1
+TSLA,2020-04-02,"Tesla shares are trading lower, potentially amid continued concerns over lower deliveries.",negative,30.29800033569336,32.000667572021484,1,negative,0
+TSLA,2019-11-11,Nio Could Be In For More Pain As Industry Association Issues Bleak EV Sales Forecast,negative,23.006000518798828,23.32866668701172,1,negative,0
+TSLA,2020-01-16,"UPDATE: Morgan Stanley Downgrades Tesla To Underweight, Raises Target To $360 'based on (1) valuation, (2) unfavorable risk-reward, and (3) risks to the long-term Chinese business that may not be fully appreciated by the market'",negative,34.232666015625,34.03333282470703,0,negative,0
+TSLA,2020-02-25,"Selloff Resumes, With Bond Yields Hitting New Record Lows As CDC Virus Report Spooks",negative,53.32733154296875,51.91999816894531,0,negative,0
+TSLA,2020-01-30,"B of A Securities Maintains Underperform on Tesla, Raises Price Target to $370",positive,42.72066879272461,43.37133407592773,1,negative,0
+TSLA,2019-12-10,"Tesla Shares Tick Slightly Higher At Open, Up ~0.3%; Traders Circulate Word Co. Has Started Receiving Orders For China-Made Model 3, Orders Have Been 'Very Strong'",positive,23.256000518798828,23.51333236694336,1,positive,1
+TSLA,2019-12-27,"'Citron took A LOT of criticism for change of heart on TSLA. Short interest now at all-time lows. Capitulation has created a ""too much too fast"" stock. Short term risk/reward now skewed to downside. Much respect to Musk but we are buyers 100 pts lower'",negative,28.691999435424805,27.64666748046875,0,positive,1
+TSLA,2019-08-07,From $420 To $230: Where Tesla Stands One Year After Elon Musk's 'Funding Secured' Tweet,positive,15.56133270263672,15.886667251586914,1,negative,0
+TSLA,2020-02-28,Tesla And PG&E To Build World's Largest Battery Farm,positive,44.53266525268555,49.574668884277344,1,positive,1
+TSLA,2020-04-24,"'China extends new energy vehicle subsidy for two more years, but excludes premium models like Tesla's #Model3. Industry expects @Tesla to cut price to meet subsidy standards' -Tweet From China's National Business Daily",negative,48.34333419799805,53.25,1,positive,1
+TSLA,2019-07-25,"CFRA Research Earlier Downgraded Tesla From Sell To Strong Sell, Cut Price Target From $150 To $135",negative,15.254667282104492,15.202667236328123,0,negative,0
+TSLA,2020-02-19,"Tesla shares are trading higher after Piper Sandler analysts raised their price target on the stock, citing potential in the company's battery and solar segments.",positive,61.16133117675781,59.96066665649414,0,positive,1
+TSLA,2020-01-23,UPDATE: UBS On Tesla Notes 'view Tesla as the original equipment manufacturer with the biggest long-term AV opportunity.',positive,38.14666748046875,37.654666900634766,0,positive,1
+TSLA,2020-05-12,'[Elon] will bring back American manufacturing. He's the best we have...' -Jim Cramer,positive,53.96066665649414,52.73066711425781,0,positive,1
+TSLA,2019-11-13,Tesla Obtained Mass Production License For Pure Electric Passenger Cars From China's MIIT,positive,23.073999404907227,23.290000915527344,1,positive,1
+TSLA,2020-01-14,"'Chevy is offering $10,000 lease discounts on Bolt EV' -Electrek",positive,35.861331939697266,34.56666564941406,0,positive,1
+TSLA,2020-04-08,A Peek Into The Markets: US Stock Futures Flat Ahead Of Fed Minutes,negative,36.589332580566406,38.20000076293945,1,positive,1
+TSLA,2020-01-09,"Tesla shares are trading lower after analysts at Baird downgraded the stock from Outperform to Neutral, recommending investors take profits . CFRA also downgraded the stock from Hold to Sell, citing near-term risks.",negative,32.089332580566406,31.87666702270508,0,negative,0
+TSLA,2020-05-11,"Tesla Negotiates $565M Loan In China Amid Factory Shutdowns, Shrinking Sales",negative,54.08599853515625,53.96066665649414,0,negative,0
+TSLA,2019-08-19,Tesla shares are trading higher after reports indicating the company is showing interest in building large factories in India to make lithium-ion batteries.,positive,15.121999740600586,15.057332992553713,0,positive,1
+TSLA,2019-09-20,'Tesla loses head of energy division and North American sales' -Electrek,negative,16.041332244873047,16.082000732421875,1,negative,0
+TSLA,2020-02-14,"Tesla to Recall 3,183 Model X Vehicles in China",negative,53.33533477783203,57.22666549682617,1,positive,1
+TSLA,2020-01-28,Turnaround Tuesday? Stocks Look To Bounce Back As Apple Earnings Loom Later,positive,37.79333114624024,38.732666015625,1,positive,1
+TSLA,2020-03-27,"Trump Lashes Out At Washington, Michigan Governors For Pandemic Response: 'We Don't Like To See The Complaints'",negative,34.29066848754883,33.47533416748047,0,negative,0
+TSLA,2019-12-30,UPDATE: Cowen On Tesla Notes 'We are raising our 4Q19 delivery estimate from 95k to 101k to reflect better expectations for both the Netherlands and China ahead of anticipated subsidy reductions in 2020',positive,27.64666748046875,27.8886661529541,1,positive,1
+TSLA,2020-02-21,4 Consumer Cyclical Stocks Moving In Friday's Pre-Market Session,negative,60.06666564941406,55.58599853515625,0,positive,1
+TSLA,2020-01-09,"Billionaire Gives Away $9M As 'Social Experiment,' Breaks Twitter Records",negative,32.089332580566406,31.87666702270508,0,positive,1
+TSLA,2019-08-29,"Wedbush Maintains Neutral, $220 Target On Tesla As Firm Notes 'While there have been some delivery speed bumps/service snafus in the European delivery process, it appears the timing of deliveries and ramping demand is roughly on track in the region'",positive,14.780667304992676,15.040666580200195,1,positive,1
+TSLA,2019-08-22,Tesla Ticks Higher On Rumor Of Volkswagen Interest,positive,14.8100004196167,14.09333324432373,0,positive,1
+TSLA,2019-09-19,Tesla Announces Model 3 Earns the 2019 IIHS TOP SAFETY PICK+ Award,positive,16.440000534057617,16.041332244873047,0,positive,1
+TSLA,2020-02-12,Apple Engineer Who Died In 2018 Tesla Crash Previously Complained Of Autopilot Malfunction,negative,51.15266799926758,53.59999847412109,1,negative,0
+TSLA,2020-05-08,Tesla shares are trading higher amid overall market strength. The company is aiming to restart production at its San Francisco Bay area plant. CEO Elon Musk also said the company filed a patent for a new battery cell.,positive,54.62799835205078,54.08599853515625,0,positive,1
+TSLA,2020-04-02,Tesla Shares Up ~4% Following Q1 Delivery And Production Figures,positive,30.29800033569336,32.000667572021484,1,positive,1
+TSLA,2019-12-06,"Morgan Stanley Maintains Equal-Weight on Tesla, Maintains $250 Price Target; Raises Bull Case Price Target From $440 To $500",positive,22.392667770385746,22.635332107543945,1,positive,1
+TSLA,2019-10-03,Talk Of Tesla Acquiring Deepscale Accelerates Road-Ready Robotaxis,positive,15.535332679748535,15.428667068481444,0,positive,1
+ORCL,2018-03-20,"Benzinga's Top Upgrades, Downgrades For March 20, 2018",negative,41.78483200073242,41.75818634033203,0,positive,1
+ORCL,2020-04-08,Shares of several technology companies are trading higher amid overall market strength on optimism that US coronavirus cases could soon leveling off. NOTE: Some names in the sector have potentially benefited from recent work-at-home trends.,positive,48.09690856933594,49.065696716308594,1,positive,1
+ORCL,2019-09-12,"UPDATE: Barclays Maintains Market Perform On Oracle, Lowers Target To $57 As Firm's Revenue Estimates Move Lower Due To 'increased management conservatism triggered by:'",negative,49.04762649536133,48.920196533203125,0,negative,0
+ORCL,2018-06-20,"Selling Pressure Seems Ready To Ebb A Bit, But Trade Fears Haven't Vanished",negative,38.18563079833984,38.43534851074219,1,negative,0
+ORCL,2019-06-18,"Benzinga's Top Upgrades, Downgrades For June 18, 2019",negative,47.95249176025391,47.7530517578125,0,positive,1
+ORCL,2018-09-18,"Oracle Shares Look Inexpensive, Barclays Says After Q1 Earnings Beat",positive,43.89505386352539,44.2531623840332,1,positive,1
+ORCL,2018-03-12,Vetr Crowd Downgrades Oracle,negative,46.98019409179688,46.69599533081055,0,negative,0
+ORCL,2018-12-17,4 Stocks Moving In Monday's After-Hours Session,negative,41.105499267578125,41.2133674621582,1,positive,1
+ORCL,2020-03-31,"Benzinga's Top Upgrades, Downgrades For March 31, 2020",negative,44.38007736206055,44.72901153564453,1,positive,1
+ORCL,2020-03-12,"Oracle Q3 Adj. EPS $0.97 Beats $0.96 Estimate, Sales $9.796B Beat $9.75B Estimate",positive,36.54722595214844,44.01277160644531,1,positive,1
+ORCL,2018-10-03,DA Davidson Sees Near-Term Stabilization In MongoDB,positive,44.53963851928711,44.28896713256836,0,positive,1
+ORCL,2018-04-06,Oracle Issues Statement On Criminal Sentences For Terix In IP Rights Violation Case,negative,39.813270568847656,39.87543487548828,1,negative,0
+ORCL,2018-03-20,Bank of America Downgrades Oracle to Neutral,negative,41.78483200073242,41.75818634033203,0,negative,0
+ORCL,2018-06-14,"Benzinga's Top Upgrades, Downgrades For June 14, 2018",negative,40.93230438232422,41.27117919921875,1,positive,1
+ORCL,2019-03-14,From Oracle Earnings Conference Call: Sees Q4 Adj. EPS $1.05-$1.09 vs $1.05 Estimate,negative,47.87403869628906,47.77476501464844,0,positive,1
+ORCL,2019-10-18,"Hearing Oracle CEO On Leave Of Absence, Mark Hurd, Has Died",negative,49.86976623535156,50.39999008178711,1,negative,0
+ORCL,2018-09-05,Mike Khouw Sees Unusual Options Activity In Oracle,negative,43.00872421264648,42.71328353881836,0,positive,1
+ORCL,2020-03-20,"Shares of several technology companies are trading higher. Market strength has been attributed to strong containment measures taken by California, rebound in oil, central bank actions and expectations of increased technology usage amid the virus outbreak.",positive,41.91911315917969,40.57843017578125,0,positive,1
+ORCL,2019-07-05,"Despite Big Market Gains, Technology Sector Expected To See Q2 Earnings Drop",negative,53.73577880859375,53.962398529052734,1,negative,0
+ORCL,2020-03-13,Oracle shares are trading higher after the company reported better-than-expected Q3 EPS and sales results. Strength also potentially related to overall market rebound following Thursday's crash.,positive,44.01277160644531,39.22857666015625,0,positive,1
+ORCL,2018-03-20,A Peek Into The Markets: U.S. Stock Futures Down; Fed Meeting In Focus,negative,41.78483200073242,41.75818634033203,0,negative,0
+ORCL,2020-03-17,"Shares of several technology, semiconductor, and software companies are trading higher, rebounding from Monday's crash. Stocks may also potentially be getting a boost from expectations of further stimulus proposals.",positive,43.03021240234375,43.406715393066406,1,positive,1
+ORCL,2019-06-04,Shares of several technology companies are trading higher after China's Commerce Ministry stated they are open to dialogue to resolve trade tensions; Mexico trade concerns also eased after Mexican officials said it could find common ground with the US.,positive,47.154781341552734,47.22731399536133,1,positive,1
+ORCL,2019-01-24,Oracle Comments on Google's Petition For Review By Supreme Court; Says Petition Presents a 'Rehash Of Arguments That Have Already Been Thoughtfully And Thoroughly Discredited',negative,44.399681091308594,44.941139221191406,1,negative,0
+ORCL,2020-03-11,"Shares of several companies in the technology, software and semiconductor space are trading lower as equities sell off amid coronavirus fears. The virus spread has disrupted economic activity across sectors and caused global macro uncertainty.",negative,41.06512451171875,36.54722595214844,0,negative,0
+ORCL,2019-05-07,Oracle to Layoff 900+ Employees in China,negative,48.9495964050293,48.94053649902344,0,negative,0
+ORCL,2018-01-03,"Benzinga's Top Upgrades, Downgrades For January 3, 2018",negative,42.20661163330078,42.62239456176758,1,positive,1
+ORCL,2018-06-20,Wedbush Downgrades Oracle to Neutral,negative,38.18563079833984,38.43534851074219,1,negative,0
+ORCL,2020-03-31,Exane BNP Paribas Upgrades Oracle to Outperform,positive,44.38007736206055,44.72901153564453,1,positive,1
+ORCL,2018-12-18,"Bank of America Reiterates Neutral, $55 Target On Oracle As Q2 'Performance reflects a pace of progress that is not enough to keep us positive in the near-term, while we acknowledge a positive long-term set up'",positive,41.2133674621582,41.7526741027832,1,positive,1
+ORCL,2018-09-27,Oracle Will Seek Affirmation of Cost Award In Rimini Case In The US Supreme Court,positive,46.276458740234375,46.16007995605469,0,positive,1
+ORCL,2019-06-28,Skittish Stocks Found New Momentum In June,positive,51.641822814941406,52.58456802368164,1,positive,1
+ORCL,2019-03-11,"Nomura Downgrades Oracle to Reduce, Lowers Price Target to $42",negative,47.5220947265625,47.6484375,1,negative,0
+ORCL,2018-09-17,From Oracle Q1 Earnings Conference Call: CEO Safra Catz Says 'We Think Our Stock Is An Unbelievable Buy',positive,44.02933120727539,43.89505386352539,0,positive,1
+ORCL,2018-03-27,"Oracle Wins Appeals Court Ruling Against Google in Long-Running Copyright Case Over Use Of Java, Oracle Has Sought Billions In Damages",negative,40.30173110961914,39.946475982666016,0,negative,0
+ORCL,2020-03-13,"Raymond James Maintains Outperform on Oracle, Lowers Price Target to $56",negative,44.01277160644531,39.22857666015625,0,positive,1
+ORCL,2019-09-11,"From Oracle Q1 Earnings Conference Call: Sees Q2 Sales Up 1-3% On Constant Currency Basis, Adj. EPS $0.87-$0.89 vs $0.91 Estimate",positive,51.23198318481445,49.04762649536133,0,positive,1
+ORCL,2020-03-19,"Shares of several technology, software and semiconductor companies are trading lower amid continued global coronavirus concerns. The virus has caused global economic disruption and negatively impacted supply chains for many tech companies. UPDATE: Several stocks in the sector have since reversed.",negative,41.38651657104492,41.91911315917969,1,negative,0
+ORCL,2019-09-27,"BMO Capital Maintains Market Perform on Oracle, Raises Price Target to $62",positive,49.22966003417969,50.08518981933594,1,positive,1
+ORCL,2019-03-14,"From Oracle Earnings Conference Call: Sees Q4 Sales Growth 1-3% On Constant-Currency Basis, Flat To Down 2% In US Dollars",negative,47.87403869628906,47.77476501464844,0,positive,1
+ORCL,2018-09-13,Rimini Street Filing On Oracle Shows US District Court In Nevada Granted Firm Motion For Temporary Stay Of Injunction In Oracle v. Rimini Street For Period Of Up To 60 Days,positive,43.8323860168457,44.09201049804688,1,positive,1
+ORCL,2018-10-26,Tesla Criminal Probe Reportedly Intensifies As FBI Reviews Model 3 Production Numbers,negative,42.53471374511719,42.26503372192383,0,negative,0
+ORCL,2018-03-19,UPDATE: Oracle Reports Q3 Cloud SaaS Sales Up 33% YoY,positive,46.13650131225586,41.78483200073242,0,positive,1
+ORCL,2018-10-03,"From Tuesday, Evercore ISI Group Downgraded Oracle to In-Line, Raised Price Target to $53",positive,44.53963851928711,44.28896713256836,0,positive,1
+ORCL,2020-02-26,"March Outlook: Political Season Starts To Sizzle, But Coronavirus Still Hogs Headlines",negative,47.79604721069336,46.62984848022461,0,negative,0
+ORCL,2019-10-28,Report: Amazon Could Challenge Microsoft's Pentagon Contract Award,negative,49.95203399658203,50.09831619262695,1,positive,1
+ORCL,2020-03-20,A Peek Into The Markets: US Stock Futures Surge; Crude Oil Up Over 6%,positive,41.91911315917969,40.57843017578125,0,positive,1
+ORCL,2019-10-25,Amazon Misses Wall Street Profit Estimates Sending The Stock Tumbling,negative,49.52236175537109,49.95203399658203,1,negative,0
+ORCL,2018-06-14,"Oracle Shares Down Following Bearish Analyst Calls; JP Morgan Downgraded To Neutral, Nomura Lowered Price Target",negative,40.93230438232422,41.27117919921875,1,negative,0
+ORCL,2018-08-14,Rimini Street to Seek a Stay Pending Appeal of Injunction in Oracle Case,negative,43.1788330078125,42.82968521118164,0,positive,1
+ORCL,2018-10-23,"Benzinga's Top Upgrades, Downgrades For October 23, 2018",negative,43.136940002441406,42.03133773803711,0,positive,1
+ORCL,2020-03-05,"Shares of several technology, semiconductor, and software companies are trading lower as global markets continue to experience volatility amid the coronavirus spread.",negative,44.07704544067383,43.49853515625,0,negative,0
+ORCL,2019-03-12,"Brexit Time Again: As Parliament Votes, U.S. Stocks Have Mixed Tone With Boeing Down",negative,47.6484375,47.8830680847168,1,negative,0
+ORCL,2019-09-12,A Peek Into The Markets: US Stock Futures Gain Ahead Of Economic Data,positive,49.04762649536133,48.920196533203125,0,positive,1
+ORCL,2019-12-13,"Raymond James Maintains Outperform on Oracle, Lowers Price Target to $57",negative,49.83318710327149,49.35781478881836,0,positive,1
+ORCL,2018-05-18,"Oracle Reports Joining Carolina Fintech Hub Generation Blockchain Challenge To Encourage Students To Develop Commercially Viable, Cross-Industry Blockchain Applications",positive,41.30684280395508,42.10052490234375,1,positive,1
+ORCL,2019-06-20,"Barclays Maintains Equal-Weight on Oracle, Raises Price Target to $59",positive,51.65996170043945,50.87132263183594,0,positive,1
+ORCL,2019-03-14,Oracle Raises Qtr. Dividend From $0.19 To $0.24/Share,positive,47.87403869628906,47.77476501464844,0,positive,1
+ORCL,2019-04-10,Oracle And IBM Are Officially Out Of The Race For A Key $10B Defense Cloud Contract As Amazon And Microsoft Move Ahead,negative,48.922401428222656,48.75924682617188,0,negative,0
+ORCL,2019-12-12,"Oracle Says In Q3, Total Revenues Are Expected To Grow 1% To 3% In Constant Currency, And Assuming A 1% Currency Headwind, Total Revenues Are Expected To Grow 1% To 3% Dollars",positive,51.625038146972656,49.83318710327149,0,positive,1
+ORCL,2019-06-20,Reaching For A Record: Stocks Approach All-Time Highs Amid Rate Optimism,positive,51.65996170043945,50.87132263183594,0,positive,1
+ORCL,2018-12-12,Sell-Side Convinced Of Pivotal Software's Fundamentals In Wake Of Q3 Beat,negative,42.53471374511719,42.45381546020508,0,positive,1
+ORCL,2018-03-02,"Despite A Pristine Q4, Stifel Downgrades VMWare On Overhang From Parent Dell Technologies (NYSE:DVMT)",negative,44.68889999389648,45.55035018920898,1,negative,0
+ORCL,2019-04-22,Disney Scion Criticizes CEO Iger's 'Insane' Pay,negative,49.51161956787109,49.80169296264648,1,negative,0
+ORCL,2018-03-20,28 Stocks Moving In Tuesday's Mid-Day Session,negative,41.78483200073242,41.75818634033203,0,positive,1
+ORCL,2019-03-11,"Oracle Can't Keep Up $10B In Buybacks Per Quarter, Nomura Instinet Says In Double Downgrade",negative,47.5220947265625,47.6484375,1,negative,0
+ORCL,2019-06-19,Oracle Sees Q1 Sales Growth 1-3% On Constant Currency Basis,positive,47.7530517578125,51.65996170043945,1,positive,1
+ORCL,2018-10-18,"As Pentagon Cloud Computing Bid Deadline Nears, Google Drops Out, IBM Protests",negative,42.588645935058594,42.77739715576172,1,negative,0
+ORCL,2019-10-08,A Peek Into The Markets: US Stock Futures Tumble Ahead Of Producer Price Index,negative,49.19324493408203,49.85147476196289,1,negative,0
+ORCL,2019-06-18,Oracle Analyst Issues Downgrade As $10B In Quarterly Buybacks Come To A Close,negative,47.95249176025391,47.7530517578125,0,negative,0
+ORCL,2019-01-09,"Benzinga's Top Upgrades, Downgrades For January 9, 2019",negative,42.94819259643555,42.984134674072266,1,positive,1
+ORCL,2019-10-11,Shares of many software companies are trading higher after President Trump made positive remarks on the U.S.-China trade talks as traders grew more optimistic over the possibility of a limited trade deal. Trump is scheduled to meet with Chinese Vice Premier Liu He at the White House today.,positive,52.00899887084961,51.61587905883789,0,positive,1
+ORCL,2019-03-14,China Might Take Some Starch Out of U.S. Rally With More Weak Economic Data,negative,47.87403869628906,47.77476501464844,0,negative,0
+ORCL,2019-06-19,4 Stocks Moving In Wednesday's After-Hours Session,negative,47.7530517578125,51.65996170043945,1,positive,1
+ORCL,2019-06-18,"UPDATE: Macquarie Downgrades Oracle To Neutral As Firm Notes 'Our checks for the FQ4 suggest that Oracle was able to close the quarter and the year in the final weeks, with some pockets of success like Cloud ERP, but it was a struggle'",negative,47.95249176025391,47.7530517578125,0,negative,0
+ORCL,2018-02-26,"With Workday Shares Up 26% YTD, BofA Projects Further Upside",positive,45.44377899169922,45.053016662597656,0,positive,1
+ORCL,2019-06-18,Cloud Looming? Oracle's Revenue Seen Down In Competitive Atmosphere,negative,47.95249176025391,47.7530517578125,0,negative,0
+ORCL,2018-03-09,"Hearing OTR Global Out Negative On Oracle, Traders Circulating Commentary That Firm Sees Mixed Cloud Sentiment Mostly Consistent With Q2 FY18 Trends",negative,47.042362213134766,46.98019409179688,0,negative,0
+ORCL,2019-09-11,Follow-Through Wednesday? Stocks Look To Build On Late Tuesday Rally,positive,51.23198318481445,49.04762649536133,0,positive,1
+ORCL,2020-03-12,Oracle shares are trading higher after the company reported better-than-expected Q3 EPS and sales results.,positive,36.54722595214844,44.01277160644531,1,positive,1
+ORCL,2018-12-17,From Oracle Q2 Conference Call: Oracle Sees Q3 Sales Up 2-4%,positive,41.105499267578125,41.2133674621582,1,positive,1
+ORCL,2019-09-12,Oracle shares are trading lower after the market reported worse-than-expected Q1 sales results.,negative,49.04762649536133,48.920196533203125,0,negative,0
+ORCL,2019-06-19,Oracle shares are trading higher after the company reported better-than-expected Q4 EPS and sales results.,positive,47.7530517578125,51.65996170043945,1,positive,1
+ORCL,2020-04-17,Shares of several technology companies are trading higher as markets gain on optimistic coronavirus outlook following positive remdesivir data from Gilead. Hopes of a treatment candidate have raised hopes of a rebound in economic activity in the future.,positive,50.39427947998047,49.73920822143555,0,positive,1
+ORCL,2019-12-13,"Barclays Maintains Equal-Weight on Oracle, Lowers Price Target to $60",positive,49.83318710327149,49.35781478881836,0,positive,1
+ORCL,2019-03-15,Strength Appears To Continue As China Offers Stimulus Plan,positive,47.77476501464844,48.24404144287109,1,positive,1
+ORCL,2019-01-23,"Oracle Issues Statement Regarding Lawsuit, Says Suit Is 'Meritless' And Relies On Cherry Picked Statistics'",negative,44.43577575683594,44.399681091308594,0,negative,0
+ORCL,2018-12-18,"UPDATE: Wells Fargo Maintains Overweight, $60 Target On Oracle As 'headwinds from the transition to the cloud abate relative to the increase in recurring subscription revenue, we believe that Oracle can return to double-digit EPS and FCF growth'",positive,41.2133674621582,41.7526741027832,1,positive,1
+ORCL,2019-11-12,Today's Pickup: Saudi Arabia's State Oil Company Aramco Has The Lowest Breakeven Costs In The World,positive,51.7347297668457,51.38733673095703,0,positive,1
+ORCL,2018-09-18,"New U.S. Tariffs On China Lighter Than Some Expected, Potentially Lending Positive Tone",positive,43.89505386352539,44.2531623840332,1,positive,1
+ORCL,2019-09-11,From Oracle Q1 Earnings Conference Call: Sees FY20 EPS Growth In Double Digit Range,positive,51.23198318481445,49.04762649536133,0,positive,1
+ORCL,2018-05-30,"Piper Jaffray: Sailpoint Technologies Poised To Benefit From Regulation, Unstructured Data Growth",positive,41.95783233642578,41.66355895996094,0,positive,1
+ORCL,2018-03-20,KeyBanc Downgrades Oracle to Sector Weight,negative,41.78483200073242,41.75818634033203,0,negative,0
+ORCL,2020-03-12,Stocks That Hit 52-Week Lows On Thursday,negative,36.54722595214844,44.01277160644531,1,negative,0
+ORCL,2020-03-27,"Shares of several technology, semiconductor, and software companies are trading lower as a potential sell-off from this week's strength. While US stimulus legislation has boosted economic optimism, demand concerns still exist amid the coronavirus.",negative,45.75748443603516,46.24417495727539,1,negative,0
+ORCL,2020-03-09,"Shares of several companies in the technology, software and semiconductor space are trading lower as equities crash amid coronavirus fears. The virus spread has disrupted economic activity across sectors and caused global macro uncertainty.",negative,42.24968719482422,44.609657287597656,1,negative,0
+ORCL,2020-03-12,From Conf Call: Oracle Expects Non-GAAAP EPS to Grow Between 3% to 9% and Be Between $1.20-$1.28 in Q4 vs $1.23 Est,positive,36.54722595214844,44.01277160644531,1,positive,1
+ORCL,2020-02-28,"Shares of companies in the technology, semiconductor, and software sector are trading lower as fears of a possible pandemic escalate, with cases of the new coronavirus surging outside China.",negative,45.4177360534668,46.74003982543945,1,negative,0
+ORCL,2019-06-19,"Oracle Q4 Adj. EPS $1.16 Beats $1.07 Estimate, Sales $11.136B Beat $10.95B Estimate",positive,47.7530517578125,51.65996170043945,1,positive,1
+ORCL,2020-03-13,Oracle Might Not Challenge Cloud Providers But Investors Are Pleased,positive,44.01277160644531,39.22857666015625,0,positive,1
+FB,2020-05-28,"Facebook Shares At Pre-Market Low, Down 1.8%, As CEO Mark Zuckerberg Begins Interview On CNBC",negative,223.7044982910156,223.3373565673828,0,negative,0
+FB,2020-05-13,A Peek Into The Markets: US Stock Futures Up Ahead Of Fed's Powell Speech,positive,203.5030059814453,205.19972229003903,1,positive,1
+FB,2020-02-28,25 Communication Services Stocks Moving In Friday's Pre-Market Session,positive,190.97134399414065,194.91046142578125,1,positive,1
+FB,2020-03-27,"For Some Companies, A Sliver Of Good News During COVID-19",positive,155.56915283203125,164.65785217285156,1,positive,1
+FB,2020-03-05,Facebook shares are trading lower after a company employee in Seattle is diagnosed with the Coronavirus.,negative,183.7281951904297,179.67999267578125,0,negative,0
+FB,2020-05-28,Trump's Executive Order To Expose Social Media To Lawsuits Over Content Policies,negative,223.7044982910156,223.3373565673828,0,negative,0
+FB,2020-05-27,Facebook Ignored Internal Research Showing It Encourages Polarization And Extreme Views,negative,227.35581970214844,223.7044982910156,0,negative,0
+FB,2020-04-30,Facebook shares are trading higher after the company reported better-than-expected Q1 sales results and Q1 daily active users were up 11% year over year.,positive,203.11605834960935,200.69505310058597,0,positive,1
+FB,2020-03-24,"Facebook, Messenger And WhatsApp Use Soars While Advertising Declines In Pandemic Hit Countries",negative,159.72654724121094,154.9936981201172,0,positive,1
+FB,2020-04-16,"'$GOOGL, $FB on Watch as Barry Diller Sees 80% Drop in Ad Spend' -Tweet",negative,174.87765502929688,177.84437561035156,1,negative,0
+FB,2020-04-16,Overstock.com Shares Spike ~6% On Volume Uptick; May Be Related To Report Facebook Considering Multiple Single-Currency Coins,positive,174.87765502929688,177.84437561035156,1,positive,1
+FB,2020-02-25,"Earnings To The Rescue? HP, Macy's, Home Depot All Report Solid Results, Providing Lift",positive,195.2378692626953,195.6645355224609,1,positive,1
+FB,2020-04-30,9 Communication Services Stocks Moving In Thursday's Pre-Market Session,positive,203.11605834960935,200.69505310058597,0,positive,1
+FB,2020-05-27,FANG Stocks Update: The Whole Lot is Losing Out to... Small Caps?,negative,227.35581970214844,223.7044982910156,0,negative,0
+FB,2020-05-04,"Server Orders to be Strong in H2 Due to Demand from FaceBook, Microsoft",positive,203.6617584228516,205.4576568603516,1,positive,1
+FB,2020-05-28,Costco Earnings On Tap After Close As Investors Mull Strong Toll Brothers Results,negative,223.7044982910156,223.3373565673828,0,positive,1
+FB,2020-04-30,"UPDATE: Mizuho On Facebook Notes 'In addition, underlying usage was strong, especially for video streaming like FB Live and Watch, and Mobile Messaging, which are strategically positive, supporting our LT thesis for under-monetized assets'",positive,203.11605834960935,200.69505310058597,0,positive,1
+FB,2020-05-20,Facebook Plans To Resume Work In Office In July At 25% Capacity And Safety Measures In Place,positive,228.17938232421875,229.5883331298828,1,positive,1
+FB,2020-04-29,"Alphabet, Boeing Shares Get A Lift Following Earnings, While GE Falls Short",positive,192.677978515625,203.11605834960935,1,negative,0
+FB,2020-04-30,"Nomura Instinet Maintains Buy on Facebook, Raises Price Target to $260",positive,203.11605834960935,200.69505310058597,0,positive,1
+FB,2020-02-24,"Chip Stocks, Apple, Airlines Among Hardest Hit As Stocks Plunge On Coronavirus Spread",negative,199.15711975097656,195.2378692626953,0,negative,0
+FB,2020-03-18,"JP Morgan Maintains Overweight on Facebook, Lowers Price Target to $225",negative,145.8157196044922,151.93768310546875,1,positive,1
+FB,2020-03-06,Shares of several media and communication companies are trading lower as global markets continue to experience pressure amid the coronavirus spread.,negative,179.67999267578125,168.18020629882812,0,negative,0
+FB,2020-05-21,Climate Change: Up And Down Pattern Continues As Week Advances And Powell Awaited,negative,229.5883331298828,233.08091735839844,1,positive,1
+FB,2020-05-29,Trump Signs Executive Order To End Social Media Legal Immunity For Third-Party Content,negative,223.3373565673828,230.1042633056641,1,positive,1
+FB,2020-03-18,Shares of several media and communications companies are trading lower as equities dip amid the ongoing coronavirus outbreak.,negative,145.8157196044922,151.93768310546875,1,negative,0
+FB,2020-04-30,Facebook Expects To Scale Its Headcount To Support Growth Initiatives Related To Coronavirus Pandemic,positive,203.11605834960935,200.69505310058597,0,positive,1
+FB,2020-05-28,Facebook's Zuckerberg Sees Travel As Having Ongoing Issues For 'Some Time',negative,223.7044982910156,223.3373565673828,0,negative,0
+FB,2020-06-01,US Indexes Start the Month of June Slightly Higher,negative,230.1042633056641,230.907958984375,1,positive,1
+FB,2020-03-26,Ally Strategist Says Fed Doing The Right Thing With Markets In Turmoil: 'A Shot In The Arm',positive,162.06817626953125,155.56915283203125,0,positive,1
+FB,2020-04-29,From Facebook Earnings Conference Call: Sees Signs Of Stability In Ad Business In Apr.,positive,192.677978515625,203.11605834960935,1,positive,1
+FB,2020-04-30,Wall Street Weighs In On Facebook's Big Quarter: Innovation Accelerates Amid Pandemic,positive,203.11605834960935,200.69505310058597,0,positive,1
+FB,2020-03-24,Shares of several communication services companies are trading higher as equities gain amid hopes of a US stimulus agreement.,positive,159.72654724121094,154.9936981201172,0,positive,1
+FB,2020-03-11,Coronavirus â Another Severe Hit To The Automotive Industry,negative,168.91445922851562,153.26724243164062,0,negative,0
+FB,2020-04-30,"Raymond James Reiterates Strong Buy on Facebook, Raises Price Target to $240",positive,203.11605834960935,200.69505310058597,0,positive,1
+FB,2020-05-21,"Stifel Maintains Buy on Facebook, Raises Price Target to $260",positive,229.5883331298828,233.08091735839844,1,positive,1
+FB,2020-05-27,"Facebook Inc (FB) Stock Drops by 3%, as Company CFO Sell Shares",negative,227.35581970214844,223.7044982910156,0,negative,0
+FB,2020-04-30,"MKM Partners Maintains Buy on Facebook, Raises Price Target to $240",positive,203.11605834960935,200.69505310058597,0,positive,1
+FB,2020-04-30,"JMP Securities Maintains Market Outperform on Facebook, Raises Price Target to $250",positive,203.11605834960935,200.69505310058597,0,positive,1
+FB,2020-05-21,"UPDATE: Shopify COO Discussing Partnership With Facebook; Shares Indicated Higher On Very Light Volume, Not Seeing Last Trade Recently",positive,229.5883331298828,233.08091735839844,1,positive,1
+FB,2020-05-28,Trump Says Executive Order On Social Media Companies Will Mean They No Longer Have A Liability Shield,negative,223.7044982910156,223.3373565673828,0,negative,0
+FB,2020-05-13,"Facebook Removed 9.6M Posts For Hate Speech In Q1, Warns Of Coronavirus Impact On Content Moderation",negative,203.5030059814453,205.19972229003903,1,negative,0
+FB,2020-03-11,"Shares of several media and communication companies are trading lower as global markets continue to experience pressure amid the coronavirus spread, which has negatively impacted companies across sectors.",negative,168.91445922851562,153.26724243164062,0,negative,0
+FB,2020-04-22,YouTube Sued By Cryptocurrency Firm For Allegedly Allowing Giveaway Scams,negative,180.86068725585935,183.68849182128903,1,negative,0
+FB,2020-03-05,Facebook Takes Down Trump Campaign Ad In Violation Of 'Census Interference Policy',negative,183.7281951904297,179.67999267578125,0,negative,0
+FB,2020-04-03,"Facebook shares are trading lower. Movement appears market related, as equities move lower for the session amid continued coronavirus-related volatility.",negative,152.97946166992188,164.26097106933594,1,negative,0
+FB,2020-03-30,"Morgan Stanley Maintains Overweight on Facebook, Lowers Price Target to $185",negative,164.65785217285156,165.50123596191406,1,positive,1
+FB,2020-05-18,A Peek Into The Markets: US Stock Futures Up; Dow Futures Surge Over 300 Points,positive,211.5299835205078,215.19129943847656,1,positive,1
+FB,2020-03-24,"Facebook's Instagram Says Will Remove Coronavirus-Related Content, Accounts From Recommendations Unless Posted By Credible Health Organizations",negative,159.72654724121094,154.9936981201172,0,negative,0
+FB,2020-04-16,Switzerland's Financial Market Supervisor Says Received Application From Facebook's Libra Association For Payment System License,positive,174.87765502929688,177.84437561035156,1,positive,1
+FB,2020-04-29,"Facebook Reports Q1 Sales Beat, Users Up 10%",positive,192.677978515625,203.11605834960935,1,positive,1
+FB,2020-02-27,Shares of several communication companies are trading lower as growing coronavirus fears hamper economic outlook.,negative,188.27252197265625,190.97134399414065,1,negative,0
+FB,2020-06-10,Tech Stocks And FAANGS Strong Again To Start Day As Market Awaits Fed,positive,234.88674926757807,222.68247985839844,0,positive,1
+FB,2020-03-11,CME To Shut Down Chicago Trading Floor Over Coronavirus Concerns,negative,168.91445922851562,153.26724243164062,0,negative,0
+FB,2020-05-04,"Silver Lake To Invest $748M In India's Jio Platforms, Weeks After Facebook's $5.7B Investment",positive,203.6617584228516,205.4576568603516,1,positive,1
+FB,2020-05-28,Swiss National Bank Ready To Buy Much More Tech Stocks To Weaken The Franc,positive,223.7044982910156,223.3373565673828,0,positive,1
+FB,2020-02-28,Shares of several communication companies are trading lower as the global coronavirus spread continues to cause equities across sectors to sell off amid worsened economic outlook.,negative,190.97134399414065,194.91046142578125,1,negative,0
+FB,2020-04-24,Match Shares Tick Lower On Volume Uptick As Traders Circulate Verge Article Highlighting Facebook Will Add Video Calls To Its Facebook Dating Service; BZ NOTE: Facebook Dating Has Been Around Since Mid-To-Late 2019,negative,188.5900421142578,186.04005432128903,0,positive,1
+FB,2020-03-05,"Facebook Inc Says Filed A Lawsuit In Arizona Against Namecheap, A Domain Name Registrar, As Well As Its Proxy Service, Whoisguard",negative,183.7281951904297,179.67999267578125,0,positive,1
+FB,2020-05-26,Facebook's Internal Research Showed Its Algorithms Were Causing Increased Polarization Among Users; Facebook Explored Changes To Address The Problem But Largely Abandoned The Effort,negative,230.39198303222656,227.35581970214844,0,negative,0
+FB,2020-02-27,'Facebook cancels its annual developer conference amid coronavirus outbreak' -CNBC,negative,188.27252197265625,190.97134399414065,1,negative,0
+FB,2020-05-27,"Facebook Inc (FB) Stock Dropped by 3%, as Company CFO Sell Shares",negative,227.35581970214844,223.7044982910156,0,negative,0
+FB,2020-03-25,COVID-19 Crisis Could Make Big Tech Even Stronger,negative,154.9936981201172,162.06817626953125,1,positive,1
+FB,2020-04-29,"Facebook Q1 EPS $1.710 Misses $1.740 Estimate, Sales $17.737B Beat $17.480B Estimate",positive,192.677978515625,203.11605834960935,1,positive,1
+FB,2020-05-18,Study: More Harassment Seen In LGBT Online Dating,negative,211.5299835205078,215.19129943847656,1,negative,0
+FB,2020-03-16,Shares of several communications companies are trading lower as equities sell off amid continued global coronavirus concerns. The virus has caused global economic disruption and negatively impacted stocks across sectors.,negative,144.8731231689453,148.25657653808594,1,negative,0
+FB,2020-05-27,Same Old Leadership Song Lifts These Leveraged ETFs,positive,227.35581970214844,223.7044982910156,0,positive,1
+FB,2020-03-30,Ad Sales Decrease With Covid-19 But Digital Holds The Key,negative,164.65785217285156,165.50123596191406,1,positive,1
+FB,2020-03-20,Netflix Cuts Picture Quality To Ease Pressure On Internet Providers In Europe,negative,148.5641326904297,146.94683837890625,0,positive,1
+FB,2020-03-26,Airbnb Asks Banks To Extend $1B Credit Facility Due To Coronavirus Impact: Report,negative,162.06817626953125,155.56915283203125,0,negative,0
+FB,2020-05-28,"Barr Says Executive Order Does Not Repeal Section 230 Of Communications Law; Trump Says Administration May Seek To Remove, Change Section 230 In Legislation",negative,223.7044982910156,223.3373565673828,0,positive,1
+FB,2020-05-22,"Cognizant: Behind the Noise, a Solid Performer at a Discount",positive,233.08091735839844,230.39198303222656,0,positive,1
+FB,2020-03-06,'Facebook says it is closing its London offices until Monday after an employee based in Singapore who has been diagnosed with [coronavirus] visited the London offices on 24-26 February' -Sky News Tweet,negative,179.67999267578125,168.18020629882812,0,negative,0
+FB,2020-06-02,MoneyGram Shares Jump 50% As Western Union Reportedly Looks For Acquisition,positive,230.907958984375,228.36788940429688,0,positive,1
+FB,2020-05-26,"'FAANG Stocks Are Strong Once Again,' Facebook, Amazon, Netflix Hit Record Highs Last Week",positive,230.39198303222656,227.35581970214844,0,positive,1
+FB,2020-04-17,"Gene Munster Dismisses Goldman's Apple Downgrade, Says Cupertino Has Long-Term Earnings Power",positive,177.84437561035156,176.8521728515625,0,positive,1
+FB,2020-06-08,"Facebook-Backed Jio Platforms Gets $750M From Abu Dhabi Sovereign Fund As It Looks To Challenge Amazon, Walmart In India",positive,229.5982360839844,236.8116455078125,1,positive,1
+FB,2020-05-21,"Mark Zuckerberg Says Electoral Interference Is Like 'Arms Race,' Admits Facebook Wasn't Prepared For 2016 Election",negative,229.5883331298828,233.08091735839844,1,positive,1
+FB,2020-04-14,"PayPal, Intuit, Square Get Approval To Give Loans To Small Businesses As Part Of $2T Federal Coronavirus Relief Package",positive,176.78271484375,175.59207153320312,0,positive,1
+FB,2020-03-09,"Cryptocurrencies Lose $26B In A Day Following Stock, Oil Dip As Gold Rises",negative,168.18020629882812,176.8025360107422,1,negative,0
+FB,2020-04-13,Shares of several communication services companies are trading lower amid continued uncertainty around the coronavirus.,negative,173.42901611328125,176.78271484375,1,negative,0
+FB,2020-02-21,Friday's Market Minute: Coronavirus Outlook Remains Cloudy,negative,208.5434417724609,199.15711975097656,0,negative,0
+FB,2020-05-28,"Trump Says He Expects Legal Challenges To Executive Order, But Assumes Administration Will Do Well In Them",positive,223.7044982910156,223.3373565673828,0,positive,1
+FB,2020-03-24,Facebook Says Has Seen Weakening Ads Business In Countries Taking Aggressive Actions To Reduce Spread Of Coronavirus,negative,159.72654724121094,154.9936981201172,0,negative,0
+FB,2020-03-12,Shares of several communications companies are trading lower as equities sell off amid continued global coronavirus concerns. The virus has caused global economic disruption and negatively impacted stocks across sectors.,negative,153.26724243164062,168.9541473388672,1,negative,0
+FB,2020-06-10,As Expected: Fed Keeps Rates Unchanged and Forecasts Years Of Dovish Policy,negative,234.88674926757807,222.68247985839844,0,positive,1
+FB,2020-03-09,Little Known Company's Shares Surge Again As Investors Confuse It With Zoom Video Communications,negative,168.18020629882812,176.8025360107422,1,negative,0
+FB,2020-04-30,"Baird Maintains Outperform on Facebook, Raises Price Target to $240",positive,203.11605834960935,200.69505310058597,0,positive,1
+FB,2020-04-16,S&P 500 Futures Up 3.2% After Hours; Many Other Stocks Moving Higher With Futures; Investors Reacting Favorably To White Phase Guidelines On Reopening Economy,positive,174.87765502929688,177.84437561035156,1,positive,1
+FB,2020-04-30,"Mizuho Maintains Buy on Facebook, Raises Price Target to $245",positive,203.11605834960935,200.69505310058597,0,positive,1
+FB,2020-05-05,US Investors Forced Out Of Telegram Cryptocurrency Project Due To Regulatory Hurdles,negative,205.4576568603516,206.84678649902344,1,negative,0
+FB,2020-03-05,Facebook Worker in Seattle is Diagnosed With the Coronavirus,negative,183.7281951904297,179.67999267578125,0,negative,0
+FB,2020-05-21,Facebook's Mark Zuckerberg Says Co. Is Aggresively Opening Remote Hiring,negative,229.5883331298828,233.08091735839844,1,positive,1
+FB,2020-05-15,Quick Retreat: Impressive Thursday Turnaround Halted in Its Tracks Amid Fresh Trade Tiff,negative,209.2379913330078,211.5299835205078,1,negative,0
+FB,2020-03-09,Shares of several media and communication companies are trading lower as US equities crash amid coronavirus fears and OPEC failing to reach a production agreement.,negative,168.18020629882812,176.8025360107422,1,negative,0
+FB,2020-03-09,Australia Sues Facebook For Data Breach Of 300K Citizens In Cambridge Analytica Case,negative,168.18020629882812,176.8025360107422,1,negative,0
+FB,2020-05-27,"Trump Gets Mad Over Fact Check Warning On Twitter, Claims Election Interference",negative,227.35581970214844,223.7044982910156,0,negative,0
+FB,2020-05-27,"Trump On Twitter Says 'Republicans feel that Social Media Platforms totally silence conservatives voices. We will strongly regulate, or close them down, before we can ever allow this to happen.'",negative,227.35581970214844,223.7044982910156,0,positive,1
+FB,2020-03-10,Shares of several communication and media companies are trading higher as markets rebound following Monday's selloff. US President Trump on Monday suggested the US is considering a payroll tax cut to relieve the negative economic effects of the coronavirus.,positive,176.8025360107422,168.91445922851562,0,positive,1
+FB,2020-04-29,"BMO Capital Maintains Market Perform on Facebook, Raises Price Target to $190",positive,192.677978515625,203.11605834960935,1,positive,1
